@@ -1,0 +1,6 @@
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Generic\obj\Debug\Modele.Generic.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Generic\bin\Debug\Modele.Generic.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Generic\bin\Debug\Modele.Generic.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Generic\obj\Debug\Modele.Generic.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Generic\obj\Debug\Modele.Generic.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Generic\obj\Debug\Modele.Generic.rewritten

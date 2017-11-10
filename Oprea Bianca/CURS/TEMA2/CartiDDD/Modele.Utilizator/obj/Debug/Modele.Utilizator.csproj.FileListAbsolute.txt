@@ -1,0 +1,5 @@
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Utilizator\bin\Debug\Modele.Utilizator.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Utilizator\bin\Debug\Modele.Utilizator.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Utilizator\obj\Debug\Modele.Utilizator.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Utilizator\obj\Debug\Modele.Utilizator.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Utilizator\obj\Debug\Modele.Utilizator.pdb
