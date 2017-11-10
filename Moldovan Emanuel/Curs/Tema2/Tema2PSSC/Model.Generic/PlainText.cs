@@ -15,8 +15,8 @@ namespace Model.Generic
 
         public PlainText(string text)
         {
-            Contract.Requires<ArgumentNullException>(text != null, "text");
-            Contract.Requires<ArgumentCannotBeEmptyStringException>(!string.IsNullOrEmpty(text), "text");
+            //Contract.Requires<ArgumentNullException>(text != null, "text");
+            //Contract.Requires<ArgumentCannotBeEmptyStringException>(!string.IsNullOrEmpty(text), "text");
 
             _text = text;
         }

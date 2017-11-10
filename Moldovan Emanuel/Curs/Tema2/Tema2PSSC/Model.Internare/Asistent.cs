@@ -14,7 +14,7 @@ namespace Model.Internare
         public PlainText Nume { get; internal set; }
         public PlainText Prenume { get; internal set; }
         public Semnatura Semnatura { get; internal set; }
-        private List<Pacient> _pacientiInregistrati;
+        private List<Pacient> _pacientiInregistrati = new List<Pacient>();
 
         public Asistent(PlainText nume, PlainText prenume, Semnatura semnatura)
         {

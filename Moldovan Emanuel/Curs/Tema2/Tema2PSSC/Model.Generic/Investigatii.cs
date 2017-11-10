@@ -20,7 +20,7 @@ namespace Model.Generic
 
         public Investigatii(bool ekg, decimal temperatura, bool radiografie)
         {
-            Contract.Requires<ArgumentException>(temperatura > 0, "temperatura");
+            //Contract.Requires<ArgumentException>(temperatura > 0, "temperatura");
 
             _ekg = ekg;
             _temperatura = temperatura;

@@ -15,9 +15,9 @@ namespace Model.Generic
 
         public Cnp(string cnp)
         {
-            Contract.Requires<ArgumentNullException>(cnp != null, "text");
-            Contract.Requires<ArgumentCannotBeEmptyStringException>(!string.IsNullOrEmpty(cnp), "text");
-            Contract.Requires<ArgumentException>(cnp.Length == 13, "CNP are exact 13 caractere.");
+            //Contract.Requires<ArgumentNullException>(cnp != null, "text");
+            //Contract.Requires<ArgumentCannotBeEmptyStringException>(!string.IsNullOrEmpty(cnp), "text");
+            //Contract.Requires<ArgumentException>(cnp.Length == 13, "CNP are exact 13 caractere.");
 
             _cnp = cnp;
         }
