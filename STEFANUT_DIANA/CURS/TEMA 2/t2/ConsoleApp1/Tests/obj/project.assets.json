@@ -464,11 +464,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Tests\\Tests.csproj",
+      "projectUniqueName": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Tests\\Tests.csproj",
+      "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Tests\\obj\\",
+      "outputPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -484,17 +484,17 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj": {
-              "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj"
+            "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj": {
+              "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj"
             },
-            "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj": {
-              "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj"
+            "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj": {
+              "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj"
             },
-            "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj": {
-              "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj"
+            "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj": {
+              "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj"
             },
-            "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
-              "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
+            "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+              "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
             }
           }
         }

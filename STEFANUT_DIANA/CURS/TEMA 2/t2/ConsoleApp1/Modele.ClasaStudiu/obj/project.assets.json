@@ -408,11 +408,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj",
+      "projectUniqueName": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj",
       "projectName": "Modele.ClasaStudiu",
-      "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj",
+      "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\Modele.ClasaStudiu.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\obj\\",
+      "outputPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Modele.ClasaStudiu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -428,8 +428,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj": {
-              "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj"
+            "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj": {
+              "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\ClassLibrary1\\Modele.Generic.csproj"
             }
           }
         }

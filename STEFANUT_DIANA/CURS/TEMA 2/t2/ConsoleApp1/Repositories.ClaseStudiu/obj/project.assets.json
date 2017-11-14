@@ -388,11 +388,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj",
+      "projectUniqueName": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj",
       "projectName": "Repositories.ClasaStudiu",
-      "projectPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj",
+      "projectPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\Repositories.ClasaStudiu.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "D:\\faculta\\an4sem1\\PSSC\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\obj\\",
+      "outputPath": "D:\\GitHub\\PSSC-2017\\STEFANUT_DIANA\\CURS\\TEMA 2\\t2\\ConsoleApp1\\Repositories.ClaseStudiu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
