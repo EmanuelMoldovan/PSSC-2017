@@ -1,0 +1,8 @@
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\Modele.Generic.deps.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\Modele.Generic.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\Modele.Generic.csproj.CoreCompileInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\Modele.Generic.AssemblyInfoInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\Modele.Generic.AssemblyInfo.cs
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\Modele.Generic.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\Modele.Generic.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\Modele.Generic.pdb

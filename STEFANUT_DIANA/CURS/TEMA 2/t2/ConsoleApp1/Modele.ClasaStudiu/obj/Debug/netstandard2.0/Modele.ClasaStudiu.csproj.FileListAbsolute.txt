@@ -1,0 +1,11 @@
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\bin\Debug\netstandard2.0\Modele.Generic.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\obj\Debug\netstandard2.0\Modele.ClasaStudiu.csprojResolveAssemblyReference.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\obj\Debug\netstandard2.0\Modele.ClasaStudiu.csproj.CoreCompileInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\obj\Debug\netstandard2.0\Modele.ClasaStudiu.AssemblyInfoInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\obj\Debug\netstandard2.0\Modele.ClasaStudiu.AssemblyInfo.cs
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\bin\Debug\netstandard2.0\Modele.ClasaStudiu.deps.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\bin\Debug\netstandard2.0\Modele.ClasaStudiu.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\bin\Debug\netstandard2.0\Modele.ClasaStudiu.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\bin\Debug\netstandard2.0\Modele.Generic.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\obj\Debug\netstandard2.0\Modele.ClasaStudiu.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Modele.ClasaStudiu\obj\Debug\netstandard2.0\Modele.ClasaStudiu.pdb
