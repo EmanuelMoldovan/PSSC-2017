@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemaDDD", "TemaDDD\TemaDDD.csproj", "{ADD09E16-FC6B-45B9-B11E-B523490C86EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{0497A54F-64DF-4494-8AE4-94E8DD9D7577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.Client", "Client\Model.Client.csproj", "{AEC7E937-B57D-45A2-96D5-01AC1D75424D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.Generic", "Model.Generic\Model.Generic.csproj", "{EA2C1571-5EC0-45D7-88AD-1D28857B5E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.ParcAuto", "Model.ParcAuto\Model.ParcAuto.csproj", "{E7F49AD8-49CA-4C9D-8108-EAC11D652F9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{22114D35-50FD-4184-A39D-F2F609DB8A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.ParcAuto", "Repository\Repository.ParcAuto.csproj", "{3D3E4980-B0A7-487A-8F44-7EAC942668C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.ParcAutoTests", "Model.ParcAutoTests\Model.ParcAutoTests.csproj", "{EF94BB87-1705-441C-A297-3782018E258B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD09E16-FC6B-45B9-B11E-B523490C86EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD09E16-FC6B-45B9-B11E-B523490C86EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD09E16-FC6B-45B9-B11E-B523490C86EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD09E16-FC6B-45B9-B11E-B523490C86EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC7E937-B57D-45A2-96D5-01AC1D75424D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC7E937-B57D-45A2-96D5-01AC1D75424D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC7E937-B57D-45A2-96D5-01AC1D75424D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC7E937-B57D-45A2-96D5-01AC1D75424D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2C1571-5EC0-45D7-88AD-1D28857B5E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2C1571-5EC0-45D7-88AD-1D28857B5E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2C1571-5EC0-45D7-88AD-1D28857B5E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2C1571-5EC0-45D7-88AD-1D28857B5E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F49AD8-49CA-4C9D-8108-EAC11D652F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F49AD8-49CA-4C9D-8108-EAC11D652F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F49AD8-49CA-4C9D-8108-EAC11D652F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F49AD8-49CA-4C9D-8108-EAC11D652F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3E4980-B0A7-487A-8F44-7EAC942668C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3E4980-B0A7-487A-8F44-7EAC942668C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3E4980-B0A7-487A-8F44-7EAC942668C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3E4980-B0A7-487A-8F44-7EAC942668C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF94BB87-1705-441C-A297-3782018E258B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF94BB87-1705-441C-A297-3782018E258B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF94BB87-1705-441C-A297-3782018E258B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF94BB87-1705-441C-A297-3782018E258B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AEC7E937-B57D-45A2-96D5-01AC1D75424D} = {0497A54F-64DF-4494-8AE4-94E8DD9D7577}
+		{EA2C1571-5EC0-45D7-88AD-1D28857B5E45} = {0497A54F-64DF-4494-8AE4-94E8DD9D7577}
+		{E7F49AD8-49CA-4C9D-8108-EAC11D652F9C} = {0497A54F-64DF-4494-8AE4-94E8DD9D7577}
+		{3D3E4980-B0A7-487A-8F44-7EAC942668C9} = {22114D35-50FD-4184-A39D-F2F609DB8A28}
+	EndGlobalSection
+EndGlobal
