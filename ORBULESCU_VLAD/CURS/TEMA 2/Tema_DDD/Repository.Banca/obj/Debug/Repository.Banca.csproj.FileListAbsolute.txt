@@ -1,0 +1,2 @@
+C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Repository.Banca\obj\Debug\Repository.Banca.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Repository.Banca\obj\Debug\Repository.Banca.csproj.CoreCompileInputs.cache

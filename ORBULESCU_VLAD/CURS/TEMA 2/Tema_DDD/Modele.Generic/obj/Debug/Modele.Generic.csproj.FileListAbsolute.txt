@@ -1,0 +1,2 @@
+C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Modele.Generic\obj\Debug\Modele.Generic.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Modele.Generic\obj\Debug\Modele.Generic.csproj.CoreCompileInputs.cache
