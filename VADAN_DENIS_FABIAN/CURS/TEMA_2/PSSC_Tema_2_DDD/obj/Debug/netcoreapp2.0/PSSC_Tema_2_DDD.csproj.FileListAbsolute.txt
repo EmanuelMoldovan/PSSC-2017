@@ -1,0 +1,11 @@
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\bin\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.deps.json
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\bin\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.runtimeconfig.json
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\bin\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.runtimeconfig.dev.json
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\bin\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.dll
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\bin\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.pdb
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\obj\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\obj\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\obj\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.AssemblyInfoInputs.cache
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\obj\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.AssemblyInfo.cs
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\obj\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.dll
+C:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\PSSC_Tema_2_DDD\obj\Debug\netcoreapp2.0\PSSC_Tema_2_DDD.pdb

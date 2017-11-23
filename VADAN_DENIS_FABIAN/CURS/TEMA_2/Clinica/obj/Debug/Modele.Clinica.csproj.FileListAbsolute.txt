@@ -1,0 +1,5 @@
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Clinica\bin\Debug\Clinica.dll
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Clinica\bin\Debug\Clinica.pdb
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Clinica\obj\Debug\Modele.Clinica.csproj.CoreCompileInputs.cache
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Clinica\obj\Debug\Clinica.dll
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Clinica\obj\Debug\Clinica.pdb
