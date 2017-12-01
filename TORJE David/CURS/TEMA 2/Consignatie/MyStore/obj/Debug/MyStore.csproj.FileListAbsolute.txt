@@ -1,0 +1,7 @@
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\bin\Debug\MyStore.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\bin\Debug\MyStore.pdb
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\bin\Debug\ConsignatieMagazinBiblioteca.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\bin\Debug\ConsignatieMagazinBiblioteca.pdb
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\obj\Debug\MyStore.csprojResolveAssemblyReference.cache
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\obj\Debug\MyStore.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\MyStore\obj\Debug\MyStore.pdb

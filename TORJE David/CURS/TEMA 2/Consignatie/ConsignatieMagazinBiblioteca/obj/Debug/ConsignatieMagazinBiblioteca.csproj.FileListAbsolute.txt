@@ -1,0 +1,4 @@
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieMagazinBiblioteca\bin\Debug\ConsignatieMagazinBiblioteca.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieMagazinBiblioteca\bin\Debug\ConsignatieMagazinBiblioteca.pdb
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieMagazinBiblioteca\obj\Debug\ConsignatieMagazinBiblioteca.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieMagazinBiblioteca\obj\Debug\ConsignatieMagazinBiblioteca.pdb

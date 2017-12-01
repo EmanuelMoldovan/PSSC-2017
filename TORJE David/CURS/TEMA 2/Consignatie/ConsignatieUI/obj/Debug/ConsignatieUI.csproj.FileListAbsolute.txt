@@ -1,0 +1,13 @@
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\ConsignatieUI.exe.config
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\ConsignatieUI.exe
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\ConsignatieUI.pdb
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\ConsignatieMagazinBiblioteca.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\ConsignatieMagazinBiblioteca.pdb
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\obj\Debug\ConsignatieUI.csprojResolveAssemblyReference.cache
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\obj\Debug\ConsignatieUI.Consignatie.resources
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\obj\Debug\ConsignatieUI.Properties.Resources.resources
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\obj\Debug\ConsignatieUI.csproj.GenerateResource.Cache
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\obj\Debug\ConsignatieUI.exe
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\obj\Debug\ConsignatieUI.pdb
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\MyStore.dll
+E:\Facultate\An IV\PSSC\TEMA2\Consignatie\ConsignatieUI\bin\Debug\MyStore.pdb
