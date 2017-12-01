@@ -1,0 +1,13 @@
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Modele.Librarie.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\bin\Debug\Modele.Librarie.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\bin\Debug\Modele.Librarie.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\bin\Debug\Modele.Generic.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\bin\Debug\Modele.Generic.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Modele.Librarie.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Modele.Librarie.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Modele.Librarie.rewritten
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\bin\Debug\CodeContracts\Modele.Librarie.Contracts.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\bin\Debug\CodeContracts\Modele.Librarie.Contracts.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Decl\Modele.Librarie.dll
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Decl\Modele.Librarie.pdb
+C:\Users\Bianca\Documents\Proiectarea sistemelor software complexe\TEMA 2\CartiDDD\Modele.Carte\obj\Debug\Modele.Librarieccrefgen.rsp
