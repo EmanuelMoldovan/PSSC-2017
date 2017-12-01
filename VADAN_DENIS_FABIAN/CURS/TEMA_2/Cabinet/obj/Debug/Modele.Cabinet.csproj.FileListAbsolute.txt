@@ -1,0 +1,2 @@
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Cabinet\obj\Debug\Modele.Cabinet.csprojResolveAssemblyReference.cache
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Cabinet\obj\Debug\Modele.Cabinet.csproj.CoreCompileInputs.cache
