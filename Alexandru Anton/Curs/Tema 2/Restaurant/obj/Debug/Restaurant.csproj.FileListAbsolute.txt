@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\ConsoleApp2\Restaurant\bin\Debug\Restaurant.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\ConsoleApp2\Restaurant\bin\Debug\Restaurant.exe
+c:\users\alex\documents\visual studio 2017\Projects\ConsoleApp2\Restaurant\bin\Debug\Restaurant.pdb
+c:\users\alex\documents\visual studio 2017\Projects\ConsoleApp2\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\ConsoleApp2\Restaurant\obj\Debug\Restaurant.exe
+c:\users\alex\documents\visual studio 2017\Projects\ConsoleApp2\Restaurant\obj\Debug\Restaurant.pdb
