@@ -1,0 +1,32 @@
+[
+  {
+    "Nume": "Vlad",
+    "Prenume": "Orbulescu",
+    "Varsta": 22,
+    "TotalPlata": 0.0,
+    "Id": "456efef6-8005-4fac-9469-ec9c560a75fb",
+    "Username": "vladorbulescu10",
+    "Password": "Par0la01",
+    "Tip": 0
+  },
+  {
+    "Nume": "Irina",
+    "Prenume": "Orbulescu",
+    "Varsta": 51,
+    "TotalPlata": 0.0,
+    "Id": "8aa43c42-8e92-4cbd-82af-68531274232b",
+    "Username": "irinaorbulescu",
+    "Password": "Par0la01",
+    "Tip": 0
+  },
+  {
+    "Nume": "Utilizator test",
+    "Prenume": "Testerson",
+    "Varsta": 999,
+    "TotalPlata": 0.0,
+    "Id": "379ae865-9381-4780-9c7c-347132e79e8a",
+    "Username": "test",
+    "Password": "test",
+    "Tip": 0
+  }
+]

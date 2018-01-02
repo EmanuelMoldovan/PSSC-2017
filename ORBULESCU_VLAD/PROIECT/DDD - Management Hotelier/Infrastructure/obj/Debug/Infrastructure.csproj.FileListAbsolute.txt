@@ -1,0 +1,15 @@
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Infrastructure.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Castle.Windsor.dll
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Castle.Windsor.xml
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\obj\Debug\Infrastructure.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Application.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Core.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Application.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Core.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Infrastructure\bin\Debug\Newtonsoft.Json.xml
