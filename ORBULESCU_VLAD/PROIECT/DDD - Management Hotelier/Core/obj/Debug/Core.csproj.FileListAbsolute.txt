@@ -1,9 +1,0 @@
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\bin\Debug\Core.exe
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\bin\Debug\Core.pdb
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\bin\Debug\Castle.Core.dll
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\bin\Debug\Castle.Windsor.dll
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\bin\Debug\Castle.Windsor.xml
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\obj\Debug\Core.exe
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\obj\Debug\Core.pdb
-C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\DDD - Management Hotelier\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
