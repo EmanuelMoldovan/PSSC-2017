@@ -1,0 +1,28 @@
+[
+  {
+    "UserId": "85acdd76-2780-4fcd-abda-37f842894047",
+    "Nume": "Vlad",
+    "Prenume": "Orbulescu",
+    "Adresa": {
+      "Strada": "Ep. N. Popeea",
+      "Numar": 9,
+      "Tara": "Romania",
+      "Oras": "Caransebes",
+      "Judet": "Caras-Severin"
+    },
+    "Varsta": 22
+  },
+  {
+    "UserId": "e3a6a680-67fd-452e-b74b-bb628f48994d",
+    "Nume": "Ion",
+    "Prenume": "Popescu",
+    "Adresa": {
+      "Strada": null,
+      "Numar": 0,
+      "Tara": null,
+      "Oras": null,
+      "Judet": null
+    },
+    "Varsta": 35
+  }
+]
