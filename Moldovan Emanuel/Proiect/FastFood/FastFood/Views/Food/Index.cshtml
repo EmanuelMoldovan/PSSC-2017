@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "BURGERS";
+}
+
+<section class="menu-header"><h1 class="pageTitle text-white">BURGERS</h1></section>
+
+<div class="container blueContainer">
+  <div class="row">
+    <div class="col-lg-6">
+      <div class="foodCard">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="unitLeft">
+              <figure>
+                <img class="imagineResponsive" src="~/images/classicBurger.png" />
+              </figure>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="unitBody">
+              <h2>Classic Burger</h2>
+              <p>Chicken beef cooked over charcoal and onions on the grill, hot pepper, lettuce, tomatoes,double American cheddar cheese sauce.</p>
+              <p class="foodCardPrice">$13.90</p>
+              @Html.ActionLink("ORDER ONLINE", "SingleBuy", "Food", new { area = "" }, new { @class = "btn btn-danger foodCardBtn" })
+            </div>
+          </div>
+        </div>               
+      </div>
+    </div>
+
+    <div class="col-lg-6">
+      <div class="foodCard">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="unitLeft">
+              <figure>
+                <img class="imagineResponsive" src="~/images/californiaBurger.png" />
+              </figure>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="unitBody">
+              <h2>California Burger</h2>
+              <p>Alfalfa sprouts crown these juicy burgers. A combination of regular ground turkey and ground turkey breast offers superior texture.</p>
+              <p class="foodCardPrice">$17.97</p>
+              @Html.ActionLink("ORDER ONLINE", "Index", "Home", new { area = "" }, new { @class = "btn btn-danger foodCardBtn" })
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-6">
+      <div class="foodCard">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="unitLeft">
+              <figure>
+                <img class="imagineResponsive" src="~/images/miniBurger.png" />
+              </figure>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="unitBody">
+              <h2>Mini Burger</h2>
+              <p>Mini burgers, known by many as sliders, are the hottest little food trend sweeping the nation, with half size of a classic burger.</p>
+              <p class="foodCardPrice">$10.90</p>
+              @Html.ActionLink("ORDER ONLINE", "Index", "Home", new { area = "" }, new { @class = "btn btn-danger foodCardBtn" })
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6">
+      <div class="foodCard">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="unitLeft">
+              <figure>
+                <img class="imagineResponsive" src="~/images/doubleBurger.png" />
+              </figure>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="unitBody">
+              <h2>Double Burger</h2>
+              <p>Two signature flame-grilled beef patties topped with a simple layer of melted American cheese and crinkle cut pickles.</p>
+              <p class="foodCardPrice">$25.00</p>
+              @Html.ActionLink("ORDER ONLINE", "Index", "Home", new { area = "" }, new { @class = "btn btn-danger foodCardBtn" })
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>

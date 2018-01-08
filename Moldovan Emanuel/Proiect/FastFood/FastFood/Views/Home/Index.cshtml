@@ -1,0 +1,187 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<section class="menu-header"><h1 class="pageTitle text-white">MENU</h1></section>
+
+<div class="container">
+  <div class="row">
+
+    <div class="col-lg-6">
+      <section class="burger-menu">
+        <h1 class="text-center">@Html.ActionLink("Burgers", "Index", "Food", new { area = "" }, new { @class = "title" })</h1>
+        <ul class="list-menu">
+          <li>
+            <div class="menu-item"><span><span>Classic Burger</span></span><span class="price">25.00</span></div>
+            <div class="menu-item-desc"><span>Beef / Onions / Hot pepper / Lettuce</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Mexican Burger</span></span><span class="price">15.90</span></div>
+            <div class="menu-item-desc"><span>Beef / Garlic / Coriander / Cheese / Onions</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Mini Burger</span></span><span class="price">7.90</span></div>
+            <div class="menu-item-desc"><span>Red onions / Minced beef / Black pepper / Cheese</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Double Burger</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Horseradish / Sour cream / Pepper / Lettuce / Beef </span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Chicken Burger</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>White chicken meat / Breadcrumbs / Onions / Peppers</span></div>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+    <div class="col-lg-6">
+      <section class="pizza-menu">
+        <h1 class="title">Pizzas</h1>
+        <ul class="list-menu">
+          <li>
+            <div class="menu-item"><span><span>Meatza</span></span><span class="price">25.00</span></div>
+            <div class="menu-item-desc"><span>Beef / Sausage / Bacon / Mozarella cheese</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Supreme</span></span><span class="price">15.90</span></div>
+            <div class="menu-item-desc"><span>Beef / Sausage / Pepperoni / Mushrooms / Green peppers</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Veggie</span></span><span class="price">7.90</span></div>
+            <div class="menu-item-desc"><span>Green peppers / Onions / Mushrooms / Black olives</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Mushroom</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Shiitake / Portobello / Mozarella / Black pepper</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Pepperoni</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Spicy pepperoni / Fresh mozarella / Greek oregano</span></div>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-lg-6">
+      <section class="toasts-menu">
+        <h1 class="title">Toasts</h1>
+        <ul class="list-menu">
+          <li>
+            <div class="menu-item"><span><span>Tuna Salad</span></span><span class="price">25.00</span></div>
+            <div class="menu-item-desc"><span>Lettuce / Tomatoes / Tuna / Grain toast</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Chicken Pesto</span></span><span class="price">15.90</span></div>
+            <div class="menu-item-desc"><span>All-natural chicken / Tomatoes / Arugula / Baguette</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Turkey Avocado</span></span><span class="price">7.90</span></div>
+            <div class="menu-item-desc"><span>Smoked turkey breast / Bacon / Lettuce / Toast</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Tomato Mozarella</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Roasted red peppers / Arugula / Basil / Baguette</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Roast Beef & Cheddar</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Cheddar cheese / Lettuce / Roast beef / Sesame bread</span></div>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+    <div class="col-lg-6">
+      <section class="salads-menu">
+        <h1 class="title">Salads</h1>
+        <ul class="list-menu">
+          <li>
+            <div class="menu-item"><span><span>Chicken Salad</span></span><span class="price">25.00</span></div>
+            <div class="menu-item-desc"><span>Beef / Sausage / Bacon / Mozarella cheese</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Caesar</span></span><span class="price">15.90</span></div>
+            <div class="menu-item-desc"><span>Parmesan cheese / Shrimp / Croutons / Salmon</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Italian Salad</span></span><span class="price">7.90</span></div>
+            <div class="menu-item-desc"><span>Roasted turkey breast / Salami / Beans / Tomatoes</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>California Cobb</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Applewood bacon / Avocado / Chicken / Tomatoes</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Waldorf Chicken Salad</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Grapes / Walnuts / Green apples / Field greens</span></div>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-lg-6">
+      <section class="desserts-menu">
+        <h1 class="title">Desserts</h1>
+        <ul class="list-menu">
+          <li>
+            <div class="menu-item"><span><span>Butter Cake</span></span><span class="price">25.00</span></div>
+            <div class="menu-item-desc"><span>Butter / Eggs / Milk</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Caramel Pudding</span></span><span class="price">15.90</span></div>
+            <div class="menu-item-desc"><span>Brown sugar / Eggs / Butter</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Key Lime Pie</span></span><span class="price">7.90</span></div>
+            <div class="menu-item-desc"><span>Biscuits / Sugar / Eggs / Butter</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Belgian Souffle Cake</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Cream / Sugar / Dark chocolate / Eggs</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Cheesecake</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Butter / Crackers / Cheese / Eggs / Sour cream</span></div>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+    <div class="col-lg-6">
+      <section class="drinks-menu">
+        <h1 class="title">Drinks</h1>
+        <ul class="list-menu">
+          <li>
+            <div class="menu-item"><span><span>Lemonade</span></span><span class="price">25.00</span></div>
+            <div class="menu-item-desc"><span>Lemon / Peach / Mango / Strawberry</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Iced Tea</span></span><span class="price">15.90</span></div>
+            <div class="menu-item-desc"><span>Raspberry / Mango / Orange</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Sparkling Water</span></span><span class="price">7.90</span></div>
+            <div class="menu-item-desc"><span>Perrier / San Pellegrino / Schweppes</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Coffee</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Espresso / Latte / Cappucino / Turkish coffee</span></div>
+          </li>
+          <li>
+            <div class="menu-item"><span><span>Fresh Juice</span></span><span class="price">23.90</span></div>
+            <div class="menu-item-desc"><span>Orange / Apple / Strawberry / Tomato</span></div>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+  </div>
+</div>
