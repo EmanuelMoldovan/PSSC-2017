@@ -164,26 +164,28 @@ textarea {
     text-decoration: none;
   }
 
-.burger-menu {
+section.burger-menu {
   position: relative;
   margin-top: 15%;
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
-  .burger-menu::before {
-    position: absolute;
-    background: url(../images/burgerMenu.jpg) bottom center no-repeat;
-    background-size: cover;
-    align-self: center;
-    z-index: -1;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    content: "";
-    filter: brightness(0.5);
-  }
+    section.burger-menu::before {
+        position: absolute;
+        background-image: url('../images/burgerMenu.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        align-self: center;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        content: "";
+        filter: brightness(0.5);
+    }
 
 .pizza-menu {
   position: relative;
@@ -291,14 +293,17 @@ textarea {
   }
 
 .title {
-  position: relative;
-  color: white;
-  text-align: center;
-  margin: 20px 0;
-  top: 3%;
-  box-sizing: border-box;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 900;
+    position: relative;
+    color: white;
+    text-align: center;
+    margin: 20px 0;
+    top: 3%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    background-color: transparent;
+    border: none;
+    padding-bottom: 5px;
 }
 
   .title:hover {
@@ -306,6 +311,10 @@ textarea {
     cursor: pointer !important;
     text-decoration: none;
   }
+
+    .title:focus {
+        outline: none;
+    }
 
 .list-menu {
   position: relative;

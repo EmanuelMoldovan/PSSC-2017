@@ -1,4 +1,7 @@
-﻿@{
+﻿@using FastFood.Domain
+@model List<Produs>
+
+@{
     ViewBag.Title = "BURGERS";
 }
 
@@ -6,29 +9,36 @@
 
 <div class="container blueContainer">
   <div class="row">
+@foreach (var item in Model)
+{
     <div class="col-lg-6">
       <div class="foodCard">
         <div class="row">
           <div class="col-lg-6">
             <div class="unitLeft">
               <figure>
-                <img class="imagineResponsive" src="~/images/classicBurger.png" />
+                <img class="imagineResponsive" src="~/images/@item.Poza" />
               </figure>
             </div>
           </div>
           <div class="col-lg-6">
             <div class="unitBody">
-              <h2>Classic Burger</h2>
-              <p>Chicken beef cooked over charcoal and onions on the grill, hot pepper, lettuce, tomatoes,double American cheddar cheese sauce.</p>
-              <p class="foodCardPrice">$13.90</p>
-              @Html.ActionLink("ORDER ONLINE", "SingleBuy", "Food", new { area = "" }, new { @class = "btn btn-danger foodCardBtn" })
+              <h2>@item.Nume</h2>
+              <p>@item.Descriere</p>
+              <p class="foodCardPrice">$@item.Pret</p>
+                @using (Html.BeginForm("SingleBuy", "Food", FormMethod.Post))
+                {
+                    <input type="hidden" name="SingleProdId" value="@item.Id" />
+                    <input type = "submit" value = "ORDER ONLINE" class="btn btn-danger foodCardBtn" />
+                }
             </div>
           </div>
         </div>               
       </div>
     </div>
+}
 
-    <div class="col-lg-6">
+    @*<div class="col-lg-6">
       <div class="foodCard">
         <div class="row">
           <div class="col-lg-6">
@@ -48,10 +58,10 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>*@
   </div>
 
-  <div class="row">
+  @*<div class="row">
     <div class="col-lg-6">
       <div class="foodCard">
         <div class="row">
@@ -95,6 +105,6 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>*@
   
 </div>

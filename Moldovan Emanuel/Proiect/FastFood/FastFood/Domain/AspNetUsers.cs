@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FastFood
+namespace FastFood.Domain
 {
     using System;
     using System.Collections.Generic;

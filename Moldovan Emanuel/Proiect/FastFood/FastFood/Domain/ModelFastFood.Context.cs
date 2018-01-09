@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FastFood
+namespace FastFood.Domain
 {
     using System;
     using System.Data.Entity;
@@ -30,8 +30,8 @@ namespace FastFood
         public virtual DbSet<AspNetUserClaims> AspNetUserClaims { get; set; }
         public virtual DbSet<AspNetUserLogins> AspNetUserLogins { get; set; }
         public virtual DbSet<AspNetUsers> AspNetUsers { get; set; }
-        public virtual DbSet<Produse> ProduseSet { get; set; }
-        public virtual DbSet<TipProdus> TipProdusSet { get; set; }
-        public virtual DbSet<Orders> OrdersSet { get; set; }
+        public virtual DbSet<Categorie> Categorii { get; set; }
+        public virtual DbSet<Produs> Produse { get; set; }
+        public virtual DbSet<Comanda> Comenzi { get; set; }
     }
 }

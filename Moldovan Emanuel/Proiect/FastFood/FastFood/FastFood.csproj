@@ -189,17 +189,64 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Domain\Categorie.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\Comanda.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\C__MigrationHistory.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\AspNetRoles.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\AspNetUserClaims.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\AspNetUserLogins.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\AspNetUsers.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\FoodController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Domain\Produs.cs">
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\StareComanda.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Domain\ModelFastFood.Designer.cs">
+      <DependentUpon>ModelFastFood.edmx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Domain\ModelFastFood.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelFastFood.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\ModelFastFood.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelFastFood.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\AddProductModel.cs" />
+    <Compile Include="Models\CheckoutModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\CategoriiRepository.cs" />
+    <Compile Include="Repositories\CheckoutRepository.cs" />
+    <Compile Include="Repositories\ProduseRepository.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -209,6 +256,7 @@
     </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Domain\ModelFastFood.edmx.sql" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -226,10 +274,25 @@
     <Content Include="images\restaurantBackground.jpg" />
     <Content Include="images\saladsMenu.jpg" />
     <Content Include="images\toastMenu.jpg" />
+    <Content Include="Domain\ModelFastFood.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ModelFastFood.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Domain\ModelFastFood.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ModelFastFood.cs</LastGenOutput>
+    </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EntityDeploy Include="Domain\ModelFastFood.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModelFastFood.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Domain\ModelFastFood.edmx.diagram">
+      <DependentUpon>ModelFastFood.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -279,8 +342,14 @@
     <Content Include="Views\Food\Index.cshtml" />
     <Content Include="Views\Food\SingleBuy.cshtml" />
     <Content Include="Views\Food\Checkout.cshtml" />
+    <Content Include="Views\Product\AddProduct.cshtml" />
+    <Content Include="Views\Category\AddCategory.cshtml" />
+    <Content Include="Views\Category\Index.cshtml" />
+    <Content Include="Views\Shared\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
   </ItemGroup>
@@ -294,6 +363,7 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -11,14 +11,10 @@
     <div class="row">
 
         @foreach (var item in Model)
-        {
+        {            
             <div class="col-lg-6">
                 <section class="burger-menu" title="@item.Poza">
-                    @using (Html.BeginForm("Index", "Food", FormMethod.Post))
-                    {
-                        <input type="hidden" name="CategoryId" value="@item.Id" />
-                        <h1 class="text-center"><input type="submit" value="@item.Nume" class="title" /></h1>                        
-                    }                    
+                    <h1 class="text-center">@Html.ActionLink(item.Nume, "Index", "Food", new { area = "" }, new { @class = "title" })</h1>
                     <ul class="list-menu">
 
                         @foreach (var product in item.Produs)

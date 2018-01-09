@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'E:\Anul4Sem1\PSSC\PSSC-2017\Moldovan Emanuel\Proiect\FastFood\FastFood\ModelFastFood.edmx'. 
+﻿// T4 code generation is enabled for model 'E:\Radu\Faculta\Anul 4\PSSC\repo-manu\PSSC-2017\Moldovan Emanuel\Proiect\FastFood\FastFood\Domain\ModelFastFood.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

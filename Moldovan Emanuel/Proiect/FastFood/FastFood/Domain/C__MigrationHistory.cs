@@ -7,20 +7,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FastFood
+namespace FastFood.Domain
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class TipProdus
+    public partial class C__MigrationHistory
     {
-        public int Id { get; set; }
-        public string Nume { get; set; }
-        public string Descriere { get; set; }
-        public string Ingrediente { get; set; }
-        public decimal Pret { get; set; }
-        public decimal EnergieCalorica { get; set; }
-        public decimal Proteine { get; set; }
-        public decimal Carbohidrati { get; set; }
+        public string MigrationId { get; set; }
+        public string ContextKey { get; set; }
+        public byte[] Model { get; set; }
+        public string ProductVersion { get; set; }
     }
 }

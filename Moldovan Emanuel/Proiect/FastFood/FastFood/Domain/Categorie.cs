@@ -7,14 +7,24 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FastFood
+namespace FastFood.Domain
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class Produse
+    public partial class Categorie
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Categorie()
+        {
+            this.Produs = new HashSet<Produs>();
+        }
+    
         public int Id { get; set; }
         public string Nume { get; set; }
+        public string Poza { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Produs> Produs { get; set; }
     }
 }

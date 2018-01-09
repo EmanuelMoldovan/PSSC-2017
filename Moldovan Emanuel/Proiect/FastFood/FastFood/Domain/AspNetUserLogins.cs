@@ -7,17 +7,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FastFood
+namespace FastFood.Domain
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class Orders
+    public partial class AspNetUserLogins
     {
-        public int Id { get; set; }
-        public string NumeClient { get; set; }
-        public string AdresaClient { get; set; }
-        public string TelefonClient { get; set; }
-        public int Stare { get; set; }
+        public string LoginProvider { get; set; }
+        public string ProviderKey { get; set; }
+        public string UserId { get; set; }
+    
+        public virtual AspNetUsers AspNetUsers { get; set; }
     }
 }

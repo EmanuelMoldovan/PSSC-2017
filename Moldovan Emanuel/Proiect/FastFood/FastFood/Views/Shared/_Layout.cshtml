@@ -23,6 +23,8 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbarOption">
             <li><i class="fa fa-cutlery fa-lg" aria-hidden="true"></i><span>@Html.ActionLink("Menu", "Index", "Home", new { area = "" }, new { @class = "navbarOptionName" })</span></li>
+            <li><i class="fa fa-cutlery fa-lg" aria-hidden="true"></i><span>@Html.ActionLink("Add Category", "AddCategory", "Category", new { area = "" }, new { @class = "navbarOptionName" })</span></li>
+            <li><i class="fa fa-cutlery fa-lg" aria-hidden="true"></i><span>@Html.ActionLink("Add Product", "AddProduct", "Product", new { area = "" }, new { @class = "navbarOptionName" })</span></li>
             <li><i class="fa fa-info fa-lg" aria-hidden="true"></i><span>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "navbarOptionName" })</span></li>
             <li><i class="fa fa-address-book-o fa-lg" aria-hidden="true"></i><span>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "navbarOptionName" })</span></li>
           </ul>

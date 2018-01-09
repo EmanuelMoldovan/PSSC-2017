@@ -1,27 +1,30 @@
-﻿<section class="menu-header"><h1 class="pageTitle text-white">SINGLE PRODUCT</h1></section>
+﻿@using FastFood.Domain
+@model Produs
+
+<section class="menu-header"><h1 class="pageTitle text-white">SINGLE PRODUCT</h1></section>
 
 <div class="container">
   <div class="row">
     <div class="col-lg-6">
       <section class="unitLeft center">
         <figure>
-          <img class="imagineResponsive" src="~/images/classicBurger.png" />
+          <img class="imagineResponsive" src="~/images/@Model.Poza" />
         </figure>
       </section>
     </div>
 
     <div class="col-lg-6">
       <section class="unitBody" style="transform: translateY(50px)">
-        <h1>Classic Burger</h1>
-        <p class="text-muted">Turkey / Alfalfa / Lettuce / Chicken Beef / Tomatoes</p>
+        <h1>@Model.Nume</h1>
+        <p class="text-muted">@Model.Ingrediente.Replace(",", " / ")</p>
         <p></p>
 
         <ul id="singleProductTab" class="nav nav-pills">
           <li class="active">
-            <a class="priceTab" href="#1a" data-toggle="tab">$25.90<span class="icon icon-circle">BIG</span></a>
+            <a class="priceTab" href="#1a" data-toggle="tab">$@Model.Pret<span class="icon icon-circle">BIG</span></a>
           </li>
           <li id="itemTab2">
-            <a class="priceTab" href="#2a" data-toggle="tab">$13.90<span class="icon icon-circle">MINI</span></a>
+            <a class="priceTab" href="#2a" data-toggle="tab">$@(Model.Pret-(Model.Pret*20/100))<span class="icon icon-circle">MINI</span></a>
           </li>
         </ul>
 
@@ -31,9 +34,9 @@
 
             <div class="progress-section">
               <h2>Energy value</h2>
-              <div class="progress" title="510kcal">
+              <div class="progress" title="@(Model.EnergieCalorica)kcal">
                 <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="43"
-                     aria-valuemin="0" aria-valuemax="100" style="width:43%" id="44g">
+                     aria-valuemin="0" aria-valuemax="100" style="width:43%">
                   43%
                 </div>
               </div>
@@ -41,7 +44,7 @@
 
             <div class="progress-section">
               <h2>PROTEINS</h2>
-              <div class="progress" title="44g">
+              <div class="progress" title="@(Model.Proteine)g">
                 <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="59"
                      aria-valuemin="0" aria-valuemax="100" style="width:59%">
                   59%
@@ -51,7 +54,7 @@
 
             <div class="progress-section">
               <h2>CARBOHYDRATES</h2>
-              <div class="progress" title="50g">
+              <div class="progress" title="@(Model.Carbohidrati)g">
                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="20"
                      aria-valuemin="0" aria-valuemax="100" style="width:20%">
                   20%
@@ -64,7 +67,7 @@
             
             <div class="progress-section">
               <h2>Energy value</h2>
-              <div class="progress" title="360kcal">
+              <div class="progress" title="@(Model.EnergieCalorica - (Model.EnergieCalorica*20/100))kcal">
                 <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="30"
                      aria-valuemin="0" aria-valuemax="100" style="width:30%">
                   43%
@@ -74,7 +77,7 @@
 
             <div class="progress-section">
               <h2>PROTEINS</h2>
-              <div class="progress" title="24g">
+              <div class="progress" title="@(Model.Proteine - (Model.Proteine*20/100))g">
                 <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="39"
                      aria-valuemin="0" aria-valuemax="100" style="width:39%">
                   59%
@@ -84,7 +87,7 @@
 
             <div class="progress-section">
               <h2>CARBOHYDRATES</h2>
-              <div class="progress" title="40g">
+              <div class="progress" title="@(Model.Carbohidrati - (Model.Carbohidrati*20/100))g">
                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="15"
                      aria-valuemin="0" aria-valuemax="100" style="width:15%">
                   20%
@@ -95,7 +98,11 @@
           </div>
         </div>
         <a href="" class="btn singlefoodIncrement">1</a>
-        @Html.ActionLink("ORDER ONLINE", "Checkout", "Food", new { area = "" }, new { @class = "btn btn-danger singlefoodBtn" })
+          @using (Html.BeginForm("Checkout", "Food", FormMethod.Get))
+          {
+              <input type="hidden" name="SingleProdId" value="@Model.Id" />
+                  <input type="submit" value="ORDER ONLINE" class="btn btn-danger singlefoodBtn" />
+          }
       </section>
     </div>
   </div>

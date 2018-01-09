@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FastFood.Repositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,7 +11,10 @@ namespace FastFood.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            var categoriiRepository = new CategoriiRepository();
+            var categorii = categoriiRepository.GetCategorii();
+
+            return View(categorii);
         }
 
         public ActionResult About()
