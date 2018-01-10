@@ -18,3 +18,6 @@ e:\AC\An IV Sem 1\PSSC\tema222\tema222\bin\Debug\xunit.core.xml
 e:\AC\An IV Sem 1\PSSC\tema222\tema222\bin\Debug\xunit.execution.desktop.xml
 e:\AC\An IV Sem 1\PSSC\tema222\tema222\bin\Debug\State.dll
 e:\AC\An IV Sem 1\PSSC\tema222\tema222\bin\Debug\State.pdb
+e:\AC\An IV Sem 1\PSSC\Pssc guthub\PSSC-2017\Bitai Oliver\Curs\Tema2\tema222\bin\Debug\tema222.exe.config
+e:\AC\An IV Sem 1\PSSC\Pssc guthub\PSSC-2017\Bitai Oliver\Curs\Tema2\tema222\obj\Debug\tema222.exe
+e:\AC\An IV Sem 1\PSSC\Pssc guthub\PSSC-2017\Bitai Oliver\Curs\Tema2\tema222\obj\Debug\tema222.pdb
