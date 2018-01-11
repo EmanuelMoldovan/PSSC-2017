@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Withdraw";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Withdraw</h2>
+@using (Html.BeginForm())
+{
+    <div class="col-md-10">
+        @Html.Label("Amount:")
+        @Html.TextBox("txtAmount")
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Withdraw" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
