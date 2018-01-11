@@ -1,0 +1,6 @@
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Servicii.Pachet\bin\Debug\Servicii.Pachet.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Servicii.Pachet\bin\Debug\Servicii.Pachet.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Servicii.Pachet\bin\Debug\Servicii.Pachet.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Servicii.Pachet\obj\Debug\Servicii.Pachet.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Servicii.Pachet\obj\Debug\Servicii.Pachet.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Servicii.Pachet\obj\Debug\Servicii.Pachet.pdb

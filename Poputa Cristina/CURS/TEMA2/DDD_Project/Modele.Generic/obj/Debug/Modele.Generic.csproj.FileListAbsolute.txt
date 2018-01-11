@@ -1,0 +1,6 @@
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Generic\bin\Debug\Modele.Generic.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Generic\bin\Debug\Modele.Generic.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Generic\bin\Debug\Modele.Generic.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Generic\obj\Debug\Modele.Generic.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Generic\obj\Debug\Modele.Generic.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Generic\obj\Debug\Modele.Generic.pdb
