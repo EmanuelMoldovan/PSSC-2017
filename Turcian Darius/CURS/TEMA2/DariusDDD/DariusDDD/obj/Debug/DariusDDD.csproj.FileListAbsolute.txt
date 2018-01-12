@@ -1,0 +1,12 @@
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.csprojResolveAssemblyReference.cache
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.Properties.Resources.resources
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.csproj.GenerateResource.Cache
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.csproj.CoreCompileInputs.cache
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\bin\Debug\DariusDDD.exe.config
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\bin\Debug\DariusDDD.exe
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\bin\Debug\DariusDDD.pdb
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.exe
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.pdb
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\obj\Debug\DariusDDD.Application.UI.frmMain.resources
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\bin\Debug\Database.mdf
+D:\Work\AC_an4\PSSC\DariusDDD\DariusDDD\bin\Debug\Database_log.ldf
