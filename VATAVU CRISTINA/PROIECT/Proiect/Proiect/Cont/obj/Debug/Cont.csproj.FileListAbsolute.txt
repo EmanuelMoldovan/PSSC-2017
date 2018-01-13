@@ -1,0 +1,12 @@
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Cont.exe.config
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Cont.exe
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Cont.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\obj\Debug\Cont.csproj.CoreCompileInputs.cache
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\obj\Debug\Cont.exe
+C:\Users\Vatavu\Documents\Visual Studio 2017\Projects\Proiect\Proiect\Cont\obj\Debug\Cont.pdb
