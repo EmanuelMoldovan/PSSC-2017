@@ -1,0 +1,4 @@
+Aplicatia prezentata se muleaza e domeniul postal, si se adreseaza gestionarii resurselor unui sediu postal.
+Acest doeniu se bazeaza in principal pe primirea de colete si scrisoari si distribuirea acestora catre destinatari.
+Entitatile folosite sunt cele mentionate mai sus, Colet si Scrisoare.
+Operatiunile posibile sunt adaugare de scrisori/ colete in inventarul postei, eliberearea acestora catre destinatar si trimiterea unui colet in depozit.
