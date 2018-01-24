@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\MagazinElectroniceRepositories.cs.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\MagazinElectroniceRepositories.cs.exe
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\MagazinElectroniceRepositories.cs.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\Model.MagazinElectronice.exe
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\Model.Generic.exe
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\Model.MagazinElectronice.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\Model.MagazinElectronice.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\Model.Generic.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\bin\Debug\Model.Generic.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\obj\Debug\MagazinElectroniceRepositories.cs.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\obj\Debug\MagazinElectroniceRepositories.cs.exe
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\MagazinElectroniceRepositories.cs\obj\Debug\MagazinElectroniceRepositories.cs.pdb
