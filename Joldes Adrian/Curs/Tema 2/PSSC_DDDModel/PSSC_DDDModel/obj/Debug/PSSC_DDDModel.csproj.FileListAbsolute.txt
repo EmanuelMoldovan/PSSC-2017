@@ -1,0 +1,9 @@
+c:\users\christian\documents\visual studio 2013\Projects\PSSC_DDDModel\PSSC_DDDModel\bin\Debug\PSSC_DDDModel.exe.config
+c:\users\christian\documents\visual studio 2013\Projects\PSSC_DDDModel\PSSC_DDDModel\obj\Debug\PSSC_DDDModel.csprojResolveAssemblyReference.cache
+c:\users\christian\documents\visual studio 2013\Projects\PSSC_DDDModel\PSSC_DDDModel\bin\Debug\PSSC_DDDModel.exe
+c:\users\christian\documents\visual studio 2013\Projects\PSSC_DDDModel\PSSC_DDDModel\bin\Debug\PSSC_DDDModel.pdb
+c:\users\christian\documents\visual studio 2013\Projects\PSSC_DDDModel\PSSC_DDDModel\obj\Debug\PSSC_DDDModel.exe
+c:\users\christian\documents\visual studio 2013\Projects\PSSC_DDDModel\PSSC_DDDModel\obj\Debug\PSSC_DDDModel.pdb
+C:\Users\Christian\Desktop\Teme Iercan\PSSC\Tema 2\PSSC_DDDModel\PSSC_DDDModel\bin\Debug\PSSC_DDDModel.exe.config
+C:\Users\Christian\Desktop\Teme Iercan\PSSC\Tema 2\PSSC_DDDModel\PSSC_DDDModel\obj\Debug\PSSC_DDDModel.exe
+C:\Users\Christian\Desktop\Teme Iercan\PSSC\Tema 2\PSSC_DDDModel\PSSC_DDDModel\obj\Debug\PSSC_DDDModel.pdb
