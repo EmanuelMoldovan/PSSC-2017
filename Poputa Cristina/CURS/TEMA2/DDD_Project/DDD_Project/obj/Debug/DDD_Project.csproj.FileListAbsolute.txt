@@ -1,0 +1,16 @@
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\DDD_Project.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\DDD_Project.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\DDD_Project.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Modele.Generic.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Modele.Pachete.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Ripository.Pachet.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Modele.Generic.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Modele.Generic.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Modele.Pachete.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Modele.Pachete.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Ripository.Pachet.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\bin\Debug\Ripository.Pachet.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\obj\Debug\DDD_Project.csprojResolveAssemblyReference.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\obj\Debug\DDD_Project.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\obj\Debug\DDD_Project.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\DDD_Project\obj\Debug\DDD_Project.pdb
