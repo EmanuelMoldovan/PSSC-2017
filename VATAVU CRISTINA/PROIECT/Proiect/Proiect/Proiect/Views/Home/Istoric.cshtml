@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Istoricul tranzactiilor";
+}
+
+<h2>Tranzactii efectuate</h2>
+
+@model IEnumerable<Proiect.Models.Istoric>
+@foreach (var item in Model)
+{
+    <div>
+        Tip:    @item.tipTranz
+        <br />
+        Data:   @item.data
+        <br />
+        Catre:  @item.partenerTranzactie
+        <br />
+        Suma:   @item.suma
+        <hr />
+    </div>
+}

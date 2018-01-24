@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Confirmare";
+}
+
+<h2>Confirmarea tranzactiei dvs</h2>
+
+@model Proiect.Models.Confirmare
+<p>
+    Ati efectuat o @Html.DisplayFor(model => model.tipTranz) cu id @Html.DisplayFor(model => model.id)
+</p>
+<p>
+    Data: @Html.DisplayFor(model => model.data)
+</p>
+<p>
+    Suma: @Html.DisplayFor(model => model.suma)
+</p>
+<p>
+    Catre @Html.DisplayFor(model => model.partenerTranzactie)
+</p>
+
+
