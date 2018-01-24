@@ -1,0 +1,15 @@
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\obj\Debug\Servicii.StopInscrieri.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Servicii.StopInscrieri.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Servicii.StopInscrieri.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Modele.Camin.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Repositories.Camin.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Modele.Generic.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Modele.Evenimente.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Modele.Camin.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Repositories.Camin.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Modele.Generic.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Modele.Evenimente.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\obj\Debug\Servicii.StopInscrieri.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Servicii.StopInscrieri\obj\Debug\Servicii.StopInscrieri.pdb

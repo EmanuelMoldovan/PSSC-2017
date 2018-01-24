@@ -1,0 +1,4 @@
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Evenimente\bin\Debug\Modele.Evenimente.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Evenimente\bin\Debug\Modele.Evenimente.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Evenimente\obj\Debug\Modele.Evenimente.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Evenimente\obj\Debug\Modele.Evenimente.pdb

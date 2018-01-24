@@ -1,0 +1,14 @@
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\Modele.Medicament.dll.config
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\Modele.Medicament.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\Modele.Medicament.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\Modele.Generic.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\PdfSharp.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\Modele.Generic.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\PdfSharp.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\obj\Debug\Modele.Medicament.csprojResolveAssemblyReference.cache
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\obj\Debug\Modele.Medicament.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Medicament\obj\Debug\Modele.Medicament.pdb

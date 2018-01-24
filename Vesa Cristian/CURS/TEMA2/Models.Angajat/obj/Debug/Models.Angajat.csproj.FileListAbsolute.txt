@@ -1,0 +1,6 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Angajat\bin\Debug\Models.Angajat.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Angajat\bin\Debug\Models.Angajat.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Angajat\bin\Debug\Models.Angajat.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Angajat\obj\Debug\Models.Angajat.csprojResolveAssemblyReference.cache
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Angajat\obj\Debug\Models.Angajat.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Angajat\obj\Debug\Models.Angajat.pdb

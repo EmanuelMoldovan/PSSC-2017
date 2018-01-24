@@ -1,0 +1,50 @@
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\obj\Debug\Servicii.Conturi.csproj.CoreCompileInputs.cache
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Servicii.Raport.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Servicii.Raport.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Grafice.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Raport.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Modele.Cont.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Modele.Generic.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.abstractions.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.assert.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.core.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Grafice.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Raport.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Modele.Cont.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\Modele.Generic.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.assert.xml
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.core.xml
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\obj\Debug\Servicii.Conturi.csprojResolveAssemblyReference.cache
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\obj\Debug\Servicii.Raport.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\obj\Debug\Servicii.Raport.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Servicii.Raport\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.abstractions.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Servicii.Raport.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Servicii.Raport.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Grafice.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Raport.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Modele.Cont.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Modele.Generic.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.assert.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.core.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Grafice.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Infrastructura.Raport.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Modele.Cont.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\Modele.Generic.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.assert.xml
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.core.xml
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\obj\Debug\Servicii.Conturi.csprojResolveAssemblyReference.cache
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\obj\Debug\Servicii.Conturi.csproj.CoreCompileInputs.cache
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\obj\Debug\Servicii.Raport.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Servicii.Raport\obj\Debug\Servicii.Raport.pdb

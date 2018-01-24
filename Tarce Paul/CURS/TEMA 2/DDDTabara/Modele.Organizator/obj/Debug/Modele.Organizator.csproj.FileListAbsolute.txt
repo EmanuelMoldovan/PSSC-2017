@@ -1,0 +1,7 @@
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\bin\Debug\Modele.Organizator.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\bin\Debug\Modele.Organizator.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\bin\Debug\Modele.Generic.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\bin\Debug\Modele.Generic.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\obj\Debug\Modele.Organizator.csprojResolveAssemblyReference.cache
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\obj\Debug\Modele.Organizator.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Organizator\obj\Debug\Modele.Organizator.pdb

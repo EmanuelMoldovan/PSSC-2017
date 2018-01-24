@@ -1,0 +1,5 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Tranzactie\bin\Debug\Models.Tranzactie.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Tranzactie\bin\Debug\Models.Tranzactie.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Tranzactie\bin\Debug\Models.Tranzactie.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Tranzactie\obj\Debug\Models.Tranzactie.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Tranzactie\obj\Debug\Models.Tranzactie.pdb

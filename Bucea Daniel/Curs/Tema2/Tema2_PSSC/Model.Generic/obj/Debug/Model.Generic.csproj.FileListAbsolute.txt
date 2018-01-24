@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\Model.Generic\bin\Debug\Model.Generic.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\Model.Generic\bin\Debug\Model.Generic.exe
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\Model.Generic\bin\Debug\Model.Generic.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\Model.Generic\obj\Debug\Model.Generic.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\Model.Generic\obj\Debug\Model.Generic.exe
+c:\users\daniel\documents\visual studio 2017\Projects\Tema2_PSSC\Model.Generic\obj\Debug\Model.Generic.pdb

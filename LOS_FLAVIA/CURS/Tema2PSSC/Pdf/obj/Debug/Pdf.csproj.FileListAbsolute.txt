@@ -1,0 +1,11 @@
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\Pdf.dll.config
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\Pdf.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\Pdf.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\PdfSharp.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\PdfSharp.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\obj\Debug\Pdf.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Pdf\obj\Debug\Pdf.pdb

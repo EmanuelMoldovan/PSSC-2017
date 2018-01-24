@@ -1,0 +1,5 @@
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Jucatori\bin\Debug\Modele.Jucatori.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Jucatori\bin\Debug\Modele.Jucatori.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Jucatori\obj\Debug\Modele.Jucatori.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Jucatori\obj\Debug\Modele.Jucatori.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Jucatori\obj\Debug\Modele.Jucatori.pdb

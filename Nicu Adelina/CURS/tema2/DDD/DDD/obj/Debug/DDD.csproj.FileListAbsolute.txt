@@ -1,0 +1,8 @@
+D:\Anul 4\PSSC\tema2\DDD\DDD\bin\Debug\DDD.exe.config
+D:\Anul 4\PSSC\tema2\DDD\DDD\bin\Debug\DDD.exe
+D:\Anul 4\PSSC\tema2\DDD\DDD\bin\Debug\DDD.pdb
+D:\Anul 4\PSSC\tema2\DDD\DDD\obj\Debug\DDD.csprojResolveAssemblyReference.cache
+D:\Anul 4\PSSC\tema2\DDD\DDD\obj\Debug\DDD.Properties.Resources.resources
+D:\Anul 4\PSSC\tema2\DDD\DDD\obj\Debug\DDD.csproj.GenerateResource.Cache
+D:\Anul 4\PSSC\tema2\DDD\DDD\obj\Debug\DDD.exe
+D:\Anul 4\PSSC\tema2\DDD\DDD\obj\Debug\DDD.pdb

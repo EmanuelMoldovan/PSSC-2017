@@ -1,0 +1,7 @@
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\bin\Debug\LibraryRepository.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\bin\Debug\LibraryRepository.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\bin\Debug\LibraryModel.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\bin\Debug\LibraryModel.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\obj\Debug\LibraryRepository.csprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\obj\Debug\LibraryRepository.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryRepository\obj\Debug\LibraryRepository.pdb

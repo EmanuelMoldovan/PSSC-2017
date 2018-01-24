@@ -1,0 +1,5 @@
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Spital\bin\Debug\Model.Spital.dll.config
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Spital\bin\Debug\Model.Spital.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Spital\bin\Debug\Model.Spital.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Spital\obj\Debug\Model.Spital.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Spital\obj\Debug\Model.Spital.pdb

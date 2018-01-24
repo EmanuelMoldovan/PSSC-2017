@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Vizualizare";
+}
+
+<h2>Vizualizare date cont</h2>
+
+@model Proiect.Models.DateCont
+<p>
+    Date pentru IBAN: @Html.DisplayFor(model => model.iban) 
+</p>
+<p>
+    Nume Client: @Html.DisplayFor(model => model.client)
+</p>
+<p>
+    Sold: @Html.DisplayFor(model => model.Sold)
+</p>

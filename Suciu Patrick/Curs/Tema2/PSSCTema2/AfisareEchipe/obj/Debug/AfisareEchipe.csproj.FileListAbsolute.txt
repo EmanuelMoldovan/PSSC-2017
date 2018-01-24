@@ -1,0 +1,9 @@
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\bin\Debug\AfisareEchipe.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\bin\Debug\AfisareEchipe.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\bin\Debug\Modele.Echipe.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\bin\Debug\Modele.Jucatori.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\bin\Debug\Modele.Echipe.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\bin\Debug\Modele.Jucatori.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\obj\Debug\AfisareEchipe.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\obj\Debug\AfisareEchipe.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareEchipe\obj\Debug\AfisareEchipe.pdb

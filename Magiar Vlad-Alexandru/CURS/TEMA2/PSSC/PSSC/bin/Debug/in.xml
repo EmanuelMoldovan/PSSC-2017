@@ -1,0 +1,20 @@
+<Hotel>
+    <Floor Nr="1">
+        <Room Nr="11" Pers="2" Vacancy="occupied" Name="Vlad" Start="10.2.2017" End="11.2.2017" />
+        <Room Nr="12" Pers="4" Vacancy="occupied" Name="Andrei" Start="10.2.2017" End="11.2.2017" />
+        <Room Nr="13" Pers="4" Vacancy="occupied" Name="Cristi" Start="10.2.2017" End="11.2.2017" />
+        <Room Nr="14" Pers="2" Vacancy="vacant" Name="" Start="" End="" />
+        <Room Nr="15" Pers="3" Vacancy="vacant" Name="" Start="" End="" />
+        <Room Nr="16" Pers="3" Vacancy="vacant" Name="" Start="" End="" />
+        <Room Nr="17" Pers="3" Vacancy="vacant" Name="" Start="" End="" />
+    </Floor>
+    <Floor Nr="2">
+        <Room Nr="21" Pers="2" Vacancy="occupied" Name="Vlad" Start="10.2.2017" End="11.2.2017" />
+        <Room Nr="22" Pers="4" Vacancy="occupied" Name="Andrei" Start="10.2.2017" End="11.2.2017" />
+        <Room Nr="23" Pers="4" Vacancy="occupied" Name="Vlad" Start="23.05.2017" End="23 iunie 2017" />
+        <Room Nr="24" Pers="2" Vacancy="occupied" Name="Ovi" Start="3 iunie 2017" End="3 iunie 2017" />
+        <Room Nr="25" Pers="3" Vacancy="vacant" Name="" Start="" End="" />
+        <Room Nr="26" Pers="3" Vacancy="occupied" Name="Oviduu" Start="3 iunie 2017" End="4 iunie 2017" />
+        <Room Nr="27" Pers="3" Vacancy="vacant" Name="" Start="" End="" />
+    </Floor>
+</Hotel>

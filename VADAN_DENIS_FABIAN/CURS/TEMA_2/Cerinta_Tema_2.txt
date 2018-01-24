@@ -1,0 +1,6 @@
+Salut,
+Tema 2 la PSSC este: Realizarea un model DDD pentru un context restrans la alegere:
+- fiecare student trebuie sa aleaga un domeniu si sa il prezinte pe scurt
+- domeniul ales trebuie modelat in C# folosind principiile proiectarii DDD
+- modelul trebuie verificat printr-un set de teste unitare (nota maxima 10) sau prin realizarea unei aplicatii consola (nota maxima 8)
+Termen: 10 Noiembrie 2017

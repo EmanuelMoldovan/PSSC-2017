@@ -1,0 +1,15 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\BancaRepository.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\BancaRepository.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\BancaRepository.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.Banca.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.Generic.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.FilialaBanca.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.Banca.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.Banca.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.Generic.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.Generic.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.FilialaBanca.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\bin\Debug\Models.FilialaBanca.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\obj\Debug\BancaRepository.csprojResolveAssemblyReference.cache
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\obj\Debug\BancaRepository.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\BancaRepository\obj\Debug\BancaRepository.pdb

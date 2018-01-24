@@ -1,0 +1,7 @@
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\bin\Debug\Servicii.Cursant.exe.config
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\bin\Debug\Servicii.Cursant.exe
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\bin\Debug\Servicii.Cursant.pdb
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\obj\Debug\Servicii.Scoala.csprojResolveAssemblyReference.cache
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\obj\Debug\Servicii.Scoala.csproj.CoreCompileInputs.cache
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\obj\Debug\Servicii.Cursant.exe
+D:\an4\PSSC\pssc_tema2\Servicii.Cursant\obj\Debug\Servicii.Cursant.pdb

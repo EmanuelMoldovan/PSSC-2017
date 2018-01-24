@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0CD7E004-878C-481D-A235-98DDF366B5BA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tema2PSSC</RootNamespace>
+    <AssemblyName>Tema2PSSC</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PdfSharp, Version=1.32.3057.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.32.3057.0\lib\net20\PdfSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PdfSharp.Charting, Version=1.32.3057.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.32.3057.0\lib\net20\PdfSharp.Charting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Meniu.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modele.Ambulanta\Modele.Ambulanta.csproj">
+      <Project>{e6cde3f8-c774-4ac3-813d-81a84f2072ea}</Project>
+      <Name>Modele.Ambulanta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modele.Angajat\Modele.Angajat.csproj">
+      <Project>{ba2049ea-0711-4aa1-a410-91bc69010029}</Project>
+      <Name>Modele.Angajat</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modele.Generic\Modele.Generic.csproj">
+      <Project>{ef515938-01b0-483d-99ed-4a94c1b1d70d}</Project>
+      <Name>Modele.Generic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modele.Investigatie\Modele.Investigatie.csproj">
+      <Project>{3f55961b-bbab-4789-803d-c002c347da91}</Project>
+      <Name>Modele.Investigatie</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modele.Medicament\Modele.Medicament.csproj">
+      <Project>{83c2f36d-c089-43de-af26-f764fd3bfcf1}</Project>
+      <Name>Modele.Medicament</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modele.Pacient\Modele.Pacient.csproj">
+      <Project>{c82adbd8-5520-4a26-b17e-1a182744da9d}</Project>
+      <Name>Modele.Pacient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pdf\Pdf.csproj">
+      <Project>{007844be-d5b7-405e-9c1c-83800d622e01}</Project>
+      <Name>Pdf</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servicii.Pacient\Servicii.Pacient.csproj">
+      <Project>{e8808f32-d483-41be-9539-0788b669e918}</Project>
+      <Name>Servicii.Pacient</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

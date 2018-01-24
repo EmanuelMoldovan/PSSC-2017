@@ -1,0 +1,10 @@
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\bin\Debug\TransportApplicationTests.dll
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\bin\Debug\TransportApplicationTests.pdb
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\bin\Debug\TransportApplication.exe
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\bin\Debug\TransportApplication.pdb
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\bin\Debug\TransportApplication.exe.config
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\obj\Debug\TransportApplicationTests.csprojResolveAssemblyReference.cache
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\obj\Debug\TransportApplicationTests.csproj.CoreCompileInputs.cache
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\obj\Debug\TransportApplicationTests.dll
+Z:\Facultate\TEma2\TransportApplication\TransportApplicationTests\obj\Debug\TransportApplicationTests.pdb

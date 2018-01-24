@@ -1,0 +1,18 @@
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\bin\Debug\LibraryService.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\bin\Debug\LibraryService.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\bin\Debug\LibraryModel.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\bin\Debug\LibraryRepository.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\bin\Debug\LibraryModel.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\bin\Debug\LibraryRepository.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\obj\Debug\LibraryService.csprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\obj\Debug\LibraryService.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\LibraryService\obj\Debug\LibraryService.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\bin\Debug\LibraryService.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\bin\Debug\LibraryService.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\bin\Debug\LibraryModel.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\bin\Debug\LibraryRepository.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\bin\Debug\LibraryModel.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\bin\Debug\LibraryRepository.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\obj\Debug\LibraryService.csprojResolveAssemblyReference.cache
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\obj\Debug\LibraryService.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\LibraryService\obj\Debug\LibraryService.pdb

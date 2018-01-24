@@ -1,0 +1,4 @@
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Generic\bin\Debug\Modele.Generic.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Generic\bin\Debug\Modele.Generic.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Generic\obj\Debug\Modele.Generic.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Generic\obj\Debug\Modele.Generic.pdb

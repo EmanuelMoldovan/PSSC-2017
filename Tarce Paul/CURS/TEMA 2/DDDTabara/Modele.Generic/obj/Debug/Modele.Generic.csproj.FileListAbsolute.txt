@@ -1,0 +1,5 @@
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Generic\bin\Debug\Modele.Generic.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Generic\bin\Debug\Modele.Generic.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Generic\obj\Debug\Modele.Generic.csprojResolveAssemblyReference.cache
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Generic\obj\Debug\Modele.Generic.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Modele.Generic\obj\Debug\Modele.Generic.pdb

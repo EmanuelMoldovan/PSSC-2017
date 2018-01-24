@@ -1,0 +1,3 @@
+Am ales sa nu aglomerez diagrama cu blocuri request-require pentru fiecare cerinta,
+asa ca am generalizat printr-o componenta API care se ocupa cu traficul general de date
+din sistemul dat.

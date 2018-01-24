@@ -1,0 +1,15 @@
+ TEMA 1 curs - Analiza unui sistem software la alegere
+------------------------------------------------
+- prezentarea cerintelor funcționale si non-functionale si identificarea acelor cerinte care influenteaza arhitectura
+
+- descompunere in componente, definirea responsabilitatilor componentelor si a relatiilor dintre ele; argumentare
+
+- prezentarea sistemului software din doua perspective (o diagram pentru fiecare perspectiva + explicatii)
+
+- identitifcarea celor mai importanți 3 indicatori de calitate, specificarea masurii alese pentru fiecare indicator de calitate si argumetarea alegerii
+
+- identificarea tehnologiilor middleware folosite pentru a comunica intre componente, argumentarea alegerilor
+
+- identificarea pincipalelor modele și stiluri arhitecturale folosite, argumentarea alegerilor
+
+- prezentarea scenariilor de validare a arhitecturii

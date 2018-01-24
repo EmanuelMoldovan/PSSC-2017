@@ -1,0 +1,42 @@
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.csprojResolveAssemblyReference.cache
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.csproj.CoreCompileInputs.cache
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\Repositories.Conturi.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\Repositories.Conturi.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\Modele.Cont.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\Modele.Generic.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.abstractions.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.assert.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.core.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\Modele.Cont.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\Modele.Generic.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.assert.xml
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.core.xml
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.pdb
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Vatavu\Documents\Visual Studio 2012\Projects\Tema2\Repositories.Conturi\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.abstractions.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\Repositories.Conturi.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\Repositories.Conturi.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\Modele.Cont.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\Modele.Generic.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.assert.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.core.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\Modele.Cont.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\Modele.Generic.pdb
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.assert.xml
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.core.xml
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.csprojResolveAssemblyReference.cache
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.csproj.CoreCompileInputs.cache
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.dll
+C:\Users\Vatavu\Documents\GitHub\PSSC-2017\VATAVU CRISTINA\CURS\TEMA2\Tema2\Repositories.Conturi\obj\Debug\Repositories.Conturi.pdb

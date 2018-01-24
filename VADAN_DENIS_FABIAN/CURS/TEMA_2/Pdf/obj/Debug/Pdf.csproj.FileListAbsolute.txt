@@ -1,0 +1,6 @@
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pdf\bin\Debug\Pdf.dll
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pdf\bin\Debug\Pdf.pdb
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pdf\obj\Debug\Pdf.csprojResolveAssemblyReference.cache
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pdf\obj\Debug\Pdf.csproj.CoreCompileInputs.cache
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pdf\obj\Debug\Pdf.dll
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pdf\obj\Debug\Pdf.pdb

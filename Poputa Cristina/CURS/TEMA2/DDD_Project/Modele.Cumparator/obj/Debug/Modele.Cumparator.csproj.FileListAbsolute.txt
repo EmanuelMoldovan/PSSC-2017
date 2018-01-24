@@ -1,0 +1,6 @@
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Cumparator\bin\Debug\Modele.Cumparator.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Cumparator\bin\Debug\Modele.Cumparator.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Cumparator\bin\Debug\Modele.Cumparator.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Cumparator\obj\Debug\Modele.Cumparator.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Cumparator\obj\Debug\Modele.Cumparator.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Modele.Cumparator\obj\Debug\Modele.Cumparator.pdb

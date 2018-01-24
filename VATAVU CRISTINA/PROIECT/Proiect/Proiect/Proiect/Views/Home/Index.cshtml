@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Internet Banking";
+}
+
+@model Proiect.Models.Model_Index
+<center>
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <table border="0" width="400">
+            <tr>
+                <th>Depune</th>
+                <th>     Transfera</th>
+            </tr>
+            <tr>
+                <td>Suma: @Html.TextBoxFor(model => model.SumaDep)</td>
+                <td>        IBAN: destinatar @Html.TextBoxFor(model => model.IBANdest)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>        Suma: @Html.TextBoxFor(model => model.SumaTransf)</td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Depune" formaction='@Url.Action("Depunere")' /></td>
+                <td>        <input type="submit" value="Transfera" formaction='@Url.Action("Transfera")' /></td>
+            </tr>
+            <tr>
+                <td>...............</td>
+                <td>...............</td>
+            </tr>
+            <tr>
+                <td>IBAN-ul dvs. @Html.TextBoxFor(model => model.IBAN, new { @class = "form-control", placeholder = "iban", required = "required" })</td>
+                <td>        <input type="submit" value="Vezi date cont" formaction='@Url.Action("Vizualizeaza")' /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Vezi istoric tranzactii cont" formaction='@Url.Action("IstoricTranzactii")' /></td>
+            </tr>
+            
+        </table>
+
+    }
+</center>

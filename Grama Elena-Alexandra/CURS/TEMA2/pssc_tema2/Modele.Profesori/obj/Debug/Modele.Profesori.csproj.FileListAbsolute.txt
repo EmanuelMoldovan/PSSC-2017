@@ -1,0 +1,7 @@
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\bin\Debug\Modele.Profesori.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\bin\Debug\Modele.Profesori.dll
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\bin\Debug\Modele.Profesori.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\obj\Debug\Modele.Profesori.csprojResolveAssemblyReference.cache
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\obj\Debug\Modele.Profesori.csproj.CoreCompileInputs.cache
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\obj\Debug\Modele.Profesori.dll
+D:\an4\PSSC\pssc_tema2\Modele.Profesori\obj\Debug\Modele.Profesori.pdb

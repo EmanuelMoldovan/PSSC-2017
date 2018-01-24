@@ -1,0 +1,9 @@
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\obj\Debug\MS.Form1.resources
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\obj\Debug\MS.Properties.Resources.resources
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\obj\Debug\MS.csproj.GenerateResource.Cache
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\bin\Debug\MS.exe.config
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\bin\Debug\MS.exe
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\bin\Debug\MS.pdb
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\obj\Debug\MS.exe
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\obj\Debug\MS.pdb
+c:\Users\Vlad\documents\visual studio 2017\Projects\MS\MS\obj\Debug\MS.csprojResolveAssemblyReference.cache

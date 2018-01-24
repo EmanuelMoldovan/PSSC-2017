@@ -1,0 +1,36 @@
+﻿{
+  "Echipe": [
+    {
+      "nume": "Alpha",
+      "punctaj": "0",
+      "taberisti": [
+        {
+          "IdTaberist": "0001",
+          "nume": "Popa Alin",
+          "puncte": "0"
+        },
+        {
+          "IdTaberist": "0002",
+          "nume": "Jurca Andreea",
+          "puncte": "0"
+        }
+      ]
+    },
+    {
+      "nume": "Beta",
+      "punctaj": "0",
+      "taberisti": [
+        {
+          "IdTaberist": "0003",
+          "nume": "Popa Alin",
+          "puncte": "0"
+        },
+        {
+          "IdTaberist": "0004",
+          "nume": "Jurca Andreea",
+          "puncte": "0"
+        }
+      ]
+    }
+  ]
+}

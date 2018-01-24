@@ -1,0 +1,6 @@
+D:\an4\PSSC\pssc_tema2\AdaugaNivel\bin\Debug\AdaugaNivel.dll.config
+D:\an4\PSSC\pssc_tema2\AdaugaNivel\bin\Debug\AdaugaNivel.dll
+D:\an4\PSSC\pssc_tema2\AdaugaNivel\bin\Debug\AdaugaNivel.pdb
+D:\an4\PSSC\pssc_tema2\AdaugaNivel\obj\Debug\Repositories.Curs.csproj.CoreCompileInputs.cache
+D:\an4\PSSC\pssc_tema2\AdaugaNivel\obj\Debug\AdaugaNivel.dll
+D:\an4\PSSC\pssc_tema2\AdaugaNivel\obj\Debug\AdaugaNivel.pdb

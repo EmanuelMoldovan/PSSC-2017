@@ -1,0 +1,11 @@
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\Modele.Internare.dll.config
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\Modele.Internare.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\Modele.Internare.pdb
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\PdfSharp.Charting.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\PdfSharp.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\PdfSharp.xml
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\PdfSharp.Charting.xml
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\de\PdfSharp.resources.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\bin\Debug\de\PdfSharp.Charting.resources.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\obj\Debug\Modele.Internare.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Internare\obj\Debug\Modele.Internare.pdb

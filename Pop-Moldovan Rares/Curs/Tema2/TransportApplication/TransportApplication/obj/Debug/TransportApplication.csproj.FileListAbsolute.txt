@@ -1,0 +1,13 @@
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\bin\Debug\TransportApplication.exe.config
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\bin\Debug\TransportApplication.exe
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\bin\Debug\TransportApplication.pdb
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.csprojResolveAssemblyReference.cache
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.Properties.Resources.resources
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.csproj.GenerateResource.Cache
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.csproj.CoreCompileInputs.cache
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.exe
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.pdb
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.Form1.resources
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.Interfete.InterfataClient.resources
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.Interfete.InterfataTransportator.resources
+Z:\Facultate\TEma2\TransportApplication\TransportApplication\obj\Debug\TransportApplication.Interfete.InterfataBilete.resources

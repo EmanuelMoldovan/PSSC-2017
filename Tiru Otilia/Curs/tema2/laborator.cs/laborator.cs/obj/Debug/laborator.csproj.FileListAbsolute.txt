@@ -1,0 +1,6 @@
+C:\Users\Otilia\Desktop\laborator.cs\laborator.cs\bin\Debug\laborator.cs.exe.config
+C:\Users\Otilia\Desktop\laborator.cs\laborator.cs\bin\Debug\laborator.cs.exe
+C:\Users\Otilia\Desktop\laborator.cs\laborator.cs\bin\Debug\laborator.cs.pdb
+C:\Users\Otilia\Desktop\laborator.cs\laborator.cs\obj\Debug\laborator.csprojResolveAssemblyReference.cache
+C:\Users\Otilia\Desktop\laborator.cs\laborator.cs\obj\Debug\laborator.cs.exe
+C:\Users\Otilia\Desktop\laborator.cs\laborator.cs\obj\Debug\laborator.cs.pdb

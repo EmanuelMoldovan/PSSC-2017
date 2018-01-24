@@ -1,0 +1,10 @@
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\bin\Debug\Ripository.Pachet.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\bin\Debug\Ripository.Pachet.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\bin\Debug\Ripository.Pachet.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\bin\Debug\Modele.Pachete.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\bin\Debug\Modele.Pachete.pdb
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\bin\Debug\Modele.Pachete.exe.config
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\obj\Debug\Ripository.Pachet.csprojResolveAssemblyReference.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\obj\Debug\Ripository.Pachet.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\obj\Debug\Ripository.Pachet.exe
+C:\Users\Cristina\Desktop\Tema2\DDD_Project\Ripository.Pachet\obj\Debug\Ripository.Pachet.pdb

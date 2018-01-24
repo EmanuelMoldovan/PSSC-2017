@@ -1,0 +1,6 @@
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pacient\bin\Debug\Pacient.dll
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pacient\bin\Debug\Pacient.pdb
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pacient\obj\Debug\Modele.Pacient.csprojResolveAssemblyReference.cache
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pacient\obj\Debug\Modele.Pacient.csproj.CoreCompileInputs.cache
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pacient\obj\Debug\Pacient.dll
+c:\Users\Denis\Google Drive\_UPT AC AIA\An IV\_Semestrul 1\PSSC\Curs\Teme Curs\Tema_2\Pacient\obj\Debug\Pacient.pdb

@@ -1,0 +1,6 @@
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\SharedData\bin\Debug\SharedData.dll.config
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\SharedData\bin\Debug\SharedData.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\SharedData\bin\Debug\SharedData.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\SharedData\obj\Debug\SharedData.csprojResolveAssemblyReference.cache
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\SharedData\obj\Debug\SharedData.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\SharedData\obj\Debug\SharedData.pdb

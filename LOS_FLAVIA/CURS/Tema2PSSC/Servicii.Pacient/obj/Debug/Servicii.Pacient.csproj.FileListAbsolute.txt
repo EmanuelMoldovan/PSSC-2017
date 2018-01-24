@@ -1,0 +1,16 @@
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Servicii.Pacient.dll.config
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Servicii.Pacient.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Servicii.Pacient.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Modele.Pacient.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\PdfSharp.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Modele.Generic.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Modele.Pacient.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\PdfSharp.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\Modele.Generic.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\obj\Debug\Servicii.Pacient.csprojResolveAssemblyReference.cache
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\obj\Debug\Servicii.Pacient.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Servicii.Pacient\obj\Debug\Servicii.Pacient.pdb

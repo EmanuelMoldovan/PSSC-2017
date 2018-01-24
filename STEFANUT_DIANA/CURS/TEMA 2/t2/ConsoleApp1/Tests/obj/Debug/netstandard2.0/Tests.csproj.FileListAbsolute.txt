@@ -1,0 +1,6 @@
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Tests\bin\Debug\netstandard2.0\Tests.deps.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Tests\bin\Debug\netstandard2.0\Tests.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Tests\obj\Debug\netstandard2.0\Tests.csprojResolveAssemblyReference.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Tests\obj\Debug\netstandard2.0\Tests.csproj.CoreCompileInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Tests\obj\Debug\netstandard2.0\Tests.AssemblyInfoInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Tests\obj\Debug\netstandard2.0\Tests.AssemblyInfo.cs

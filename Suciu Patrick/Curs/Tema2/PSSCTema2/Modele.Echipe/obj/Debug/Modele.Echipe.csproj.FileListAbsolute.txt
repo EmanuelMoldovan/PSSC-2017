@@ -1,0 +1,7 @@
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\bin\Debug\Modele.Echipe.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\bin\Debug\Modele.Echipe.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\bin\Debug\Modele.Jucatori.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\bin\Debug\Modele.Jucatori.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\obj\Debug\Modele.Echipe.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\obj\Debug\Modele.Echipe.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Echipe\obj\Debug\Modele.Echipe.pdb

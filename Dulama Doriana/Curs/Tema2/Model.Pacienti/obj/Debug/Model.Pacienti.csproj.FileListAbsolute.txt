@@ -1,0 +1,10 @@
+c:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\Model.Pacienti.dll.config
+c:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\Model.Pacienti.dll
+c:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\Model.Pacienti.pdb
+c:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\obj\Debug\Model.Pacienti.dll
+c:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\obj\Debug\Model.Pacienti.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\obj\Debug\Model.Pacienti.csprojResolveAssemblyReference.cache
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\SharedData.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\SharedData.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\SharedData.dll.config
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.Pacienti\bin\Debug\DocX.dll

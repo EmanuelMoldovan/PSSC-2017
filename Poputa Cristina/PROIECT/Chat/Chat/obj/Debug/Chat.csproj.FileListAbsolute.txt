@@ -1,0 +1,17 @@
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\MetroFramework.Design.dll
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\MetroFramework.dll
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.Chat.resources
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Cristina\Desktop\CHAT_PSSC\Chat\Chat\obj\Debug\Chat.pdb

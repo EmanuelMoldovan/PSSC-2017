@@ -1,0 +1,16 @@
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.DocumentePacient.dll.config
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.DocumentePacient.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.DocumentePacient.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\DocX.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.Pacienti.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\SharedData.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.Pacienti.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.Pacienti.dll.config
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\SharedData.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\SharedData.dll.config
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\obj\Debug\Model.DocumentePacient.csprojResolveAssemblyReference.cache
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\obj\Debug\Model.DocumentePacient.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\obj\Debug\Model.DocumentePacient.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.Spital.dll
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.Spital.pdb
+C:\Users\Doriana\documents\visual studio 2017\Projects\Tema2\Model.DocumentePacient\bin\Debug\Model.Spital.dll.config

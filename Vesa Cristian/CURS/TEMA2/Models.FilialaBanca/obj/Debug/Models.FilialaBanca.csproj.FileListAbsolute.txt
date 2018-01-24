@@ -1,0 +1,9 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\bin\Debug\Models.FilialaBanca.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\bin\Debug\Models.FilialaBanca.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\bin\Debug\Models.FilialaBanca.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\obj\Debug\Models.FilialaBanca.csprojResolveAssemblyReference.cache
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\obj\Debug\Models.FilialaBanca.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\obj\Debug\Models.FilialaBanca.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\bin\Debug\Models.Generic.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\bin\Debug\Models.Generic.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.FilialaBanca\bin\Debug\Models.Generic.exe.config

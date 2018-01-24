@@ -1,0 +1,6 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\EntityFactory\bin\Debug\EntityFactory.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\EntityFactory\bin\Debug\EntityFactory.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\EntityFactory\bin\Debug\EntityFactory.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\EntityFactory\obj\Debug\EntityFactory.csprojResolveAssemblyReference.cache
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\EntityFactory\obj\Debug\EntityFactory.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\EntityFactory\obj\Debug\EntityFactory.pdb

@@ -1,0 +1,9 @@
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\bin\Debug\Repositories.Activitate.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\bin\Debug\Repositories.Activitate.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\bin\Debug\Model.Activitate.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\bin\Debug\Modele.Generic.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\bin\Debug\Model.Activitate.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\bin\Debug\Modele.Generic.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\obj\Debug\Repositories.Activitate.csprojResolveAssemblyReference.cache
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\obj\Debug\Repositories.Activitate.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Repositories.Activitate\obj\Debug\Repositories.Activitate.pdb

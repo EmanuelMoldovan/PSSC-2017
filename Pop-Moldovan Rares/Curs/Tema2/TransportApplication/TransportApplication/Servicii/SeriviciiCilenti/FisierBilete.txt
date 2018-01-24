@@ -1,0 +1,21 @@
+Nume pasager: Mihaela Sturz
+Localitate plecare: Oradea Ora plecare: 8:00
+Localitate sosire: Bucuresti Ora sosire: 20:00
+Nume pasager: Mihai Catalin
+Localitate plecare: Bucuresti Ora plecare: 08:00
+Localitate sosire: Timisoara Ora sosire: 20:00
+Nume pasager: George Dobre
+Localitate plecare: Bucuresti Ora plecare: 08:00
+Localitate sosire: Timisoara Ora sosire: 20:00
+Nume pasager: Popescu Ion
+Localitate plecare: Cluj Ora plecare: 14:00
+Localitate sosire: Timisoara Ora sosire: 18:00
+Nume pasager: Mihai Manase
+Localitate plecare: Arad Ora plecare: 12:00
+Localitate sosire: Timisoara Ora sosire: 13:00
+Nume pasager: Cristiana Manase
+Localitate plecare: Arad Ora plecare: 12:00
+Localitate sosire: Timisoara Ora sosire: 13:00
+Nume pasager: Critina Menintki
+Localitate plecare: Arad Ora plecare: 09:00
+Localitate sosire: Oradea Ora sosire: 11:00

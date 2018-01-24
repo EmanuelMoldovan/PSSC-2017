@@ -1,0 +1,67 @@
+﻿@model IEnumerable<PSSCWeb.Models.ContModel>
+
+@{
+    ViewBag.Title = "ShowAccounts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ShowAccounts</h2>
+@if (Model != null)
+{
+    <p>
+        @Html.ActionLink("AddAccount", "AddAccount", "Home")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Currency)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoneyDeposited)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AccountNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Currency)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MoneyDeposited)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Withdraw", "Withdraw", new { id = item.Id }) |
+                    @Html.ActionLink("Deposit", "Deposit", new { id = item.Id }) |
+                    @Html.ActionLink("History", "History", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    if (ViewBag.Message != null)
+    {
+        <div class="form-group">
+            <div class="col-md-10">@ViewBag.Message</div>
+        </div>
+    }
+    else
+    {
+        <p>This user doesn't have accounts</p>
+        @Html.ActionLink("AddAccount", "AddAccount", "Home");
+    }
+
+}

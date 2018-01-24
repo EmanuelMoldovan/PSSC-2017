@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.console" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Modele.Generic.csproj" />
+    <ProjectReference Include="..\Modele.ClasaStudiu\Modele.ClasaStudiu.csproj" />
+    <ProjectReference Include="..\Repositories.ClaseStudiu\Repositories.ClasaStudiu.csproj" />
+  </ItemGroup>
+
+</Project>

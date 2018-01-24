@@ -1,0 +1,6 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Generic\bin\Debug\Models.Generic.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Generic\bin\Debug\Models.Generic.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Generic\bin\Debug\Models.Generic.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Generic\obj\Debug\Models.Generic.csprojResolveAssemblyReference.cache
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Generic\obj\Debug\Models.Generic.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Models.Generic\obj\Debug\Models.Generic.pdb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tema2pssc", "tema2pssc\tema2pssc.csproj", "{17AEE697-E38A-4A31-8C9A-D06C9CCE5912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{6F52EA29-3E8D-4679-90E8-D2466DCC31C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{477031AF-764F-413B-89EF-BBF44EF23A5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{AE74B3E5-56D9-4684-BDCC-BDAE4D1D4857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories.Gradina", "GradinaRepository\Repositories.Gradina.csproj", "{BE11B242-908B-4CED-B410-053BA0C7F906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models.Gradina", "Gradina\Models.Gradina.csproj", "{AEFD5340-DCAE-4866-9A29-B3DAE6F48D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Gradina", "Services.Gradina\Services.Gradina.csproj", "{7D080499-652A-45C4-88F5-44B3E591728A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models.Generic", "Models.Generic\Models.Generic.csproj", "{A1BCA0E6-90BA-407F-B052-85F55618EBC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AEE697-E38A-4A31-8C9A-D06C9CCE5912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AEE697-E38A-4A31-8C9A-D06C9CCE5912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AEE697-E38A-4A31-8C9A-D06C9CCE5912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AEE697-E38A-4A31-8C9A-D06C9CCE5912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE11B242-908B-4CED-B410-053BA0C7F906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE11B242-908B-4CED-B410-053BA0C7F906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE11B242-908B-4CED-B410-053BA0C7F906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE11B242-908B-4CED-B410-053BA0C7F906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFD5340-DCAE-4866-9A29-B3DAE6F48D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFD5340-DCAE-4866-9A29-B3DAE6F48D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFD5340-DCAE-4866-9A29-B3DAE6F48D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFD5340-DCAE-4866-9A29-B3DAE6F48D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D080499-652A-45C4-88F5-44B3E591728A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D080499-652A-45C4-88F5-44B3E591728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D080499-652A-45C4-88F5-44B3E591728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D080499-652A-45C4-88F5-44B3E591728A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BCA0E6-90BA-407F-B052-85F55618EBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BCA0E6-90BA-407F-B052-85F55618EBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BCA0E6-90BA-407F-B052-85F55618EBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BCA0E6-90BA-407F-B052-85F55618EBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE11B242-908B-4CED-B410-053BA0C7F906} = {477031AF-764F-413B-89EF-BBF44EF23A5F}
+		{AEFD5340-DCAE-4866-9A29-B3DAE6F48D02} = {6F52EA29-3E8D-4679-90E8-D2466DCC31C7}
+		{7D080499-652A-45C4-88F5-44B3E591728A} = {AE74B3E5-56D9-4684-BDCC-BDAE4D1D4857}
+		{A1BCA0E6-90BA-407F-B052-85F55618EBC3} = {6F52EA29-3E8D-4679-90E8-D2466DCC31C7}
+	EndGlobalSection
+EndGlobal

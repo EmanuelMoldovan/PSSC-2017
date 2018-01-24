@@ -1,0 +1,7 @@
+D:\an4\PSSC\pssc_tema2\Modele.Orar\bin\Debug\Modele.Orar.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Orar\bin\Debug\Modele.Orar.dll
+D:\an4\PSSC\pssc_tema2\Modele.Orar\bin\Debug\Modele.Orar.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Orar\obj\Debug\Modele.Orar.csprojResolveAssemblyReference.cache
+D:\an4\PSSC\pssc_tema2\Modele.Orar\obj\Debug\Modele.Orar.csproj.CoreCompileInputs.cache
+D:\an4\PSSC\pssc_tema2\Modele.Orar\obj\Debug\Modele.Orar.dll
+D:\an4\PSSC\pssc_tema2\Modele.Orar\obj\Debug\Modele.Orar.pdb

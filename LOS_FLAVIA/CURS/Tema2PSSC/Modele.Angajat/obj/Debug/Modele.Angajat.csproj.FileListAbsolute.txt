@@ -1,0 +1,14 @@
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\Modele.Angajat.dll.config
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\Modele.Angajat.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\Modele.Angajat.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\Modele.Generic.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\PdfSharp.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\Modele.Generic.pdb
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\PdfSharp.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\obj\Debug\Modele.Angajat.csprojResolveAssemblyReference.cache
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\obj\Debug\Modele.Angajat.dll
+C:\Users\Flavia\documents\visual studio 2015\Projects\Tema2PSSC\Modele.Angajat\obj\Debug\Modele.Angajat.pdb

@@ -1,0 +1,7 @@
+D:\an4\PSSC\pssc_tema2\Modele.Generic\obj\Debug\Modele.Generic.csprojResolveAssemblyReference.cache
+D:\an4\PSSC\pssc_tema2\Modele.Generic\obj\Debug\Modele.Generic.csproj.CoreCompileInputs.cache
+D:\an4\PSSC\pssc_tema2\Modele.Generic\bin\Debug\Modele.Generic.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Generic\bin\Debug\Modele.Generic.dll
+D:\an4\PSSC\pssc_tema2\Modele.Generic\bin\Debug\Modele.Generic.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Generic\obj\Debug\Modele.Generic.dll
+D:\an4\PSSC\pssc_tema2\Modele.Generic\obj\Debug\Modele.Generic.pdb

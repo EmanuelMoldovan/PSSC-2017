@@ -1,0 +1,9 @@
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\obj\Debug\Modele.Camin.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\bin\Debug\Modele.Camin.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\bin\Debug\Modele.Camin.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\bin\Debug\Modele.Evenimente.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\bin\Debug\Modele.Generic.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\bin\Debug\Modele.Evenimente.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\bin\Debug\Modele.Generic.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\obj\Debug\Modele.Camin.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Camin\obj\Debug\Modele.Camin.pdb

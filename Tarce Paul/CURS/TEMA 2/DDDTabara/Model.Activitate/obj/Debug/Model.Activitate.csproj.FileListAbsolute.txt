@@ -1,0 +1,9 @@
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\bin\Debug\Model.Activitate.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\bin\Debug\Model.Activitate.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\bin\Debug\Modele.Generic.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\bin\Debug\Modele.Generic.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\obj\Debug\Model.Activitate.csprojResolveAssemblyReference.cache
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\obj\Debug\Model.Activitate.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\obj\Debug\Model.Activitate.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\bin\Debug\Modele.Organizator.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.Activitate\bin\Debug\Modele.Organizator.pdb

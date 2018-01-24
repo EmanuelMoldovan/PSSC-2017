@@ -1,0 +1,24 @@
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\PSSC_tema_2.exe.config
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\PSSC_tema_2.exe
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\PSSC_tema_2.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\obj\Debug\PSSC_tema_2.csprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\obj\Debug\PSSC_tema_2.exe
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\obj\Debug\PSSC_tema_2.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryModel.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryRepository.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryModel.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryRepository.pdb
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryService.dll
+C:\Users\Anda\Desktop\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryService.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\PSSC_tema_2.exe.config
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\PSSC_tema_2.exe
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\PSSC_tema_2.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryModel.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryRepository.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryService.dll
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryModel.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryRepository.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\bin\Debug\LibraryService.pdb
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\obj\Debug\PSSC_tema_2.csprojResolveAssemblyReference.cache
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\obj\Debug\PSSC_tema_2.exe
+C:\Users\Anda\Documents\GitHub\PSSC-2017\Rif Anda\CURS\TEMA2\PSSC_tema_2\PSSC_tema_2\obj\Debug\PSSC_tema_2.pdb

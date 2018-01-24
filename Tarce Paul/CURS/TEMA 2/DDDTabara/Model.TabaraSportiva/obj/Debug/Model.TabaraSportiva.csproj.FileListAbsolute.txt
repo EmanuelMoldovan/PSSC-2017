@@ -1,0 +1,9 @@
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\bin\Debug\Model.TabaraSportiva.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\bin\Debug\Model.TabaraSportiva.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\bin\Debug\Modele.Organizator.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\bin\Debug\Modele.Generic.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\bin\Debug\Modele.Organizator.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\bin\Debug\Modele.Generic.pdb
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\obj\Debug\Model.TabaraSportiva.csprojResolveAssemblyReference.cache
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\obj\Debug\Model.TabaraSportiva.dll
+D:\cursuri\An4\PSSC\lab\Tema2\DDDTabara\Model.TabaraSportiva\obj\Debug\Model.TabaraSportiva.pdb

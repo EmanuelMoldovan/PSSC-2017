@@ -1,0 +1,4 @@
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Campionat\bin\Debug\Modele.Campionat.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Campionat\bin\Debug\Modele.Campionat.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Campionat\obj\Debug\Modele.Campionat.dll
+c:\users\patrick\documents\visual studio 2015\Projects\PSSCTema2\Modele.Campionat\obj\Debug\Modele.Campionat.pdb

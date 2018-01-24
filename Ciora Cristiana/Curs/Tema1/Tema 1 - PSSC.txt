@@ -1,0 +1,37 @@
+TEMA 1 curs - Analiza unui sistem software la alegere
+
+Se conside un sistem software care implementeaza interactiunea dintre banca-client-cont.
+Procesul ce trebuie implementat:
+-banca trebuie sa poata sa inregistreze clienti, sa creeze/sa inchida conturi si sa retranga dobanzi
+-un client isi poate deschide mai multe conturi
+-clientul poate sa vada informatiile de pe toate conturile sale
+-clientul poate sa adauge/sa retraga bani in/din conturi.
+-clientul poate sa transfere bani intre conturile sale sau catre alte conturi bancare
+
+Perspectiva logica:
+
+O banca poate avea mai multi clienti. Fiecare client poate avea unul sua mai mult conturi. Fiecare cont apartine unui singur client si unei singure banci. Intr-o banca se tine evidenta conturilor tuturor clientilor. Pentru a-si accesa conturile, clientul foloseste un bancomat care permite operatii asupra conturilor sale.
+
+Perspectiva proces:
+
+Un client merge la banca pentru a-si deschide un cont. Banca deschide acel cont si introduce in baza de date toate informatiile necesare. Pentru a-si accesa contul, clientul trebuie sa se conecteze la un bancomat. Dupa validarea datelor de securitate, bancomatul ii da acces utilizatorului catre conturile sale si ii permite sa retraga/sa adauge sau sa transfere bani.
+
+Indicatori de calitate:
+
+1. Securitatea
+
+Multi-factor Authentication via SecurID: Accesul va fi garantat nu doar prin introducerea PIN ci si a unui cod primit prin SMS. Aceasta masura asigura utilizatorul ca in cazul in care cardul este furat nu poate fi folosit.
+
+2. Disponibilitatea
+
+Replicarea componentelor: Daca o componenta a unui bancomat nu mai functioneaza, se trece la componenta dublata pentru ca acesta sa ramana activ si utlizatorul sa isi poata accesa conturile in orice moment.
+
+3. Timpul de raspuns
+
+Implementare software: Un timp de raspuns cat mai scurt garanteaza tranzactii mai rapide pentru cazurile de urgenta.
+
+Tehnologii middleware folosite pentru a comunica intre componente:
+Tranzacții - pentru transfer bancar.
+Livrarea Mesajelor - pentru ca platile sa fie transmise complet.
+Cozi de Mesaje Bidirecționale - trebuie ca aplicatia sa permita efectuarea de plati si in timpul primirii unui transfer bancar.
+

@@ -1,0 +1,9 @@
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\bin\Debug\netstandard2.0\Repositories.ClasaStudiu.deps.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\bin\Debug\netstandard2.0\Repositories.ClasaStudiu.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\obj\Debug\netstandard2.0\Repositories.ClasaStudiu.csproj.CoreCompileInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\obj\Debug\netstandard2.0\Repositories.ClasaStudiu.AssemblyInfoInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\obj\Debug\netstandard2.0\Repositories.ClasaStudiu.AssemblyInfo.cs
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\bin\Debug\netstandard2.0\Repositories.ClasaStudiu.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\obj\Debug\netstandard2.0\Repositories.ClasaStudiu.csprojResolveAssemblyReference.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\obj\Debug\netstandard2.0\Repositories.ClasaStudiu.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\Repositories.ClaseStudiu\obj\Debug\netstandard2.0\Repositories.ClasaStudiu.pdb

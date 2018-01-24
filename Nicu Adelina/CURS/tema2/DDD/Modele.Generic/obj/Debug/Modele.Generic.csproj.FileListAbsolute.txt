@@ -1,0 +1,5 @@
+D:\Anul 4\PSSC\tema2\DDD\Modele.Generic\bin\Debug\Modele.Generic.dll
+D:\Anul 4\PSSC\tema2\DDD\Modele.Generic\bin\Debug\Modele.Generic.pdb
+D:\Anul 4\PSSC\tema2\DDD\Modele.Generic\obj\Debug\Modele.Generic.csprojResolveAssemblyReference.cache
+D:\Anul 4\PSSC\tema2\DDD\Modele.Generic\obj\Debug\Modele.Generic.dll
+D:\Anul 4\PSSC\tema2\DDD\Modele.Generic\obj\Debug\Modele.Generic.pdb

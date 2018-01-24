@@ -1,0 +1,6 @@
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\Modele.Biblioteca\bin\Debug\Modele.Biblioteca.exe.config
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\Modele.Biblioteca\bin\Debug\Modele.Biblioteca.exe
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\Modele.Biblioteca\bin\Debug\Modele.Biblioteca.pdb
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\Modele.Biblioteca\obj\Debug\Modele.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\Modele.Biblioteca\obj\Debug\Modele.Biblioteca.exe
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\Modele.Biblioteca\obj\Debug\Modele.Biblioteca.pdb

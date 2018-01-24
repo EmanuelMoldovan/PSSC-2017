@@ -1,0 +1,13 @@
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\ServiciiBiblioteca.exe.config
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\ServiciiBiblioteca.exe
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\ServiciiBiblioteca.pdb
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\ColectiiBiblioteca.exe
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\Modele.Biblioteca.exe
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\ColectiiBiblioteca.pdb
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\ColectiiBiblioteca.exe.config
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\Modele.Biblioteca.pdb
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\bin\Debug\Modele.Biblioteca.exe.config
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\obj\Debug\ServiciiBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\obj\Debug\ServiciiBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\obj\Debug\ServiciiBiblioteca.exe
+C:\Users\Cristian Vladoescu\source\repos\CVBibliotecaTema2PSSC\ServiciiBiblioteca\obj\Debug\ServiciiBiblioteca.pdb

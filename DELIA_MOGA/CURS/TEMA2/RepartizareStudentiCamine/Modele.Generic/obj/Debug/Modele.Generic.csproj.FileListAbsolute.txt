@@ -1,0 +1,5 @@
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Generic\bin\Debug\Modele.Generic.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Generic\bin\Debug\Modele.Generic.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Generic\obj\Debug\Modele.Generic.dll
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Generic\obj\Debug\Modele.Generic.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\Projects\RepartizareStudentiCamine\Modele.Generic\obj\Debug\Modele.Generic.csprojResolveAssemblyReference.cache

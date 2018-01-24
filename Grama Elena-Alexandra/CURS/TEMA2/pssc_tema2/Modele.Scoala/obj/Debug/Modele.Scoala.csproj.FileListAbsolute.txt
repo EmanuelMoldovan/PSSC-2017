@@ -1,0 +1,16 @@
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Scoala.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Scoala.dll
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Scoala.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Cursanti.dll
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.LimbaStraina.dll
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Generic.dll
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Cursanti.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Cursanti.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.LimbaStraina.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.LimbaStraina.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Generic.pdb
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\bin\Debug\Modele.Generic.dll.config
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\obj\Debug\Modele.Scoala.csprojResolveAssemblyReference.cache
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\obj\Debug\Modele.Scoala.csproj.CoreCompileInputs.cache
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\obj\Debug\Modele.Scoala.dll
+D:\an4\PSSC\pssc_tema2\Modele.Scoala\obj\Debug\Modele.Scoala.pdb

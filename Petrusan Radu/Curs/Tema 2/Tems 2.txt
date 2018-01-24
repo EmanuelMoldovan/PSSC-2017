@@ -1,0 +1,3 @@
+Aceasta este tema 2 curs pentru PSSC.
+
+Modelul ales se bazeaza pe domeniul adus in discutie in tema 1, cu mici modificari.

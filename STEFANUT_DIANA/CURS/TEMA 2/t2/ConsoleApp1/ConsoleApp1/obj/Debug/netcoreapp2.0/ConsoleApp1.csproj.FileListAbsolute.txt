@@ -1,0 +1,17 @@
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Modele.ClasaStudiu.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Modele.Generic.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Repositories.ClasaStudiu.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Modele.Generic.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Modele.ClasaStudiu.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Repositories.ClasaStudiu.pdb
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\faculta\an4sem1\PSSC\t2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

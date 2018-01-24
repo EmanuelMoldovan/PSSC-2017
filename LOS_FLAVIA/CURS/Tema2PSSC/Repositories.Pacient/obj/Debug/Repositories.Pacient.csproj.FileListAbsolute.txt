@@ -1,0 +1,11 @@
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\Repositories.Pacient.dll.config
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\Repositories.Pacient.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\Repositories.Pacient.pdb
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\PdfSharp.Charting.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\PdfSharp.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\PdfSharp.xml
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\PdfSharp.Charting.xml
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\de\PdfSharp.resources.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\bin\Debug\de\PdfSharp.Charting.resources.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\obj\Debug\Repositories.Pacient.dll
+c:\users\flavia\documents\visual studio 2015\Projects\Tema2PSSC\Repositories.Pacient\obj\Debug\Repositories.Pacient.pdb

@@ -1,0 +1,7 @@
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\obj\Debug\AfisareJucatori.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\bin\Debug\AfisareJucatori.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\bin\Debug\AfisareJucatori.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\bin\Debug\Modele.Jucatori.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\bin\Debug\Modele.Jucatori.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\obj\Debug\AfisareJucatori.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\PSSCTema2\AfisareJucatori\obj\Debug\AfisareJucatori.pdb

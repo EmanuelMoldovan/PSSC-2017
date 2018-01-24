@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3821B62A-8747-4265-AD82-5B1EE1FF0DF9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>GeneratorDocumente</RootNamespace>
+    <AssemblyName>GeneratorDocumente</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocX">
+      <HintPath>..\packages\DocX.1.0.0.22\lib\net40\DocX.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GenerareDoc.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeneratorPDF\GeneratorPDF.csproj">
+      <Project>{1e049653-7a68-40b4-b3b1-a17015ea5c41}</Project>
+      <Name>GeneratorPDF</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model.DocumentePacient\Model.DocumentePacient.csproj">
+      <Project>{e7922b74-17aa-40a7-b433-3cdd965a6c7b}</Project>
+      <Name>Model.DocumentePacient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model.Pacienti\Model.Pacienti.csproj">
+      <Project>{97b28b5c-fc2e-47fc-aeb5-b98ee6877184}</Project>
+      <Name>Model.Pacienti</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model.Spital\Model.Spital.csproj">
+      <Project>{8e5bf71b-e324-4fa5-8463-42a722b9fc6a}</Project>
+      <Name>Model.Spital</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servicii.Pacient\Servicii.Pacient.csproj">
+      <Project>{2f40c449-f8d9-437f-8d0e-9d8b99ed0880}</Project>
+      <Name>Servicii.Pacient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SharedData\SharedData.csproj">
+      <Project>{5b785a05-1d81-46ea-ab1c-a53a414c3a1a}</Project>
+      <Name>SharedData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

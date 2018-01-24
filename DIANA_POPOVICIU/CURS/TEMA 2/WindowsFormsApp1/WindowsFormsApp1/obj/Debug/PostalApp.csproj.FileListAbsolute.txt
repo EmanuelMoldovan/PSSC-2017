@@ -1,0 +1,20 @@
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PostalApp.csprojResolveAssemblyReference.cache
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PostalApp.csproj.GenerateResource.Cache
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PostalApp.csproj.CoreCompileInputs.cache
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\didii\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Interfaces.Interfata.resources
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PostalApp.csprojResolveAssemblyReference.cache
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Interfaces.Interfata.resources
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PostalApp.csproj.GenerateResource.Cache
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PostalApp.csproj.CoreCompileInputs.cache
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Didii\Documents\PSSC-2017\DIANA_POPOVICIU\CURS\TEMA 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

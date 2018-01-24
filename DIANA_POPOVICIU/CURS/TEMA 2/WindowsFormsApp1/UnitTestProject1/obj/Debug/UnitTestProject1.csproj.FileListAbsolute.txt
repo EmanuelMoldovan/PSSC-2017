@@ -1,0 +1,2 @@
+c:\users\didii\source\repos\WindowsFormsApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\didii\source\repos\WindowsFormsApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

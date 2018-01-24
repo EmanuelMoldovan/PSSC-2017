@@ -1,0 +1,6 @@
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Tema2_PSSC\bin\Debug\Tema2_PSSC.exe.config
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Tema2_PSSC\bin\Debug\Tema2_PSSC.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Tema2_PSSC\bin\Debug\Tema2_PSSC.pdb
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Tema2_PSSC\obj\Debug\Tema2_PSSC.csprojResolveAssemblyReference.cache
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Tema2_PSSC\obj\Debug\Tema2_PSSC.exe
+D:\Anul4\PSSC\Tema2\Tema2\Tema2_PSSC\Tema2_PSSC\obj\Debug\Tema2_PSSC.pdb
