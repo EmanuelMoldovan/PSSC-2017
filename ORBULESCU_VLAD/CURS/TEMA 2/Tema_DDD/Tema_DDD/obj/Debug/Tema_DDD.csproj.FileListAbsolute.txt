@@ -1,7 +1,0 @@
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\bin\Debug\Tema_DDD.exe.config
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\bin\Debug\Tema_DDD.exe
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\bin\Debug\Tema_DDD.pdb
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\obj\Debug\Tema_DDD.csprojResolveAssemblyReference.cache
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\obj\Debug\Tema_DDD.csproj.CoreCompileInputs.cache
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\obj\Debug\Tema_DDD.exe
-C:\Users\Vlad Orbulescu\Documents\Facultate\Tema2_PSSC\Tema_DDD\Tema_DDD\obj\Debug\Tema_DDD.pdb

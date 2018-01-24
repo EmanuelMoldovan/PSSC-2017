@@ -1,0 +1,18 @@
+[
+  {
+    "UserId": "85acdd76-2780-4fcd-abda-37f842894047",
+    "Username": "vladorbulescu10",
+    "Password": "Par0la01",
+    "EmailAddress": "vlad@gmail.com",
+    "PasswordSalt": null,
+    "Tip": 0
+  },
+  {
+    "UserId": "e3a6a680-67fd-452e-b74b-bb628f48994d",
+    "Username": "ionpopescu",
+    "Password": "Par0la01",
+    "EmailAddress": "ionpopescu@gmail.com",
+    "PasswordSalt": null,
+    "Tip": 0
+  }
+]

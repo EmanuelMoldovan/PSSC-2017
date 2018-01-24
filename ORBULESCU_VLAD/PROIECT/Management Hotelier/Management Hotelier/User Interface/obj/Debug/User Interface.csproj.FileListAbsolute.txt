@@ -1,0 +1,19 @@
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\User Interface.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\User Interface.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Core.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Infrastructure.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Core services.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Castle.Windsor.dll
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Castle.Core.dll
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Core.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Infrastructure.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Core services.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Castle.Windsor.xml
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\obj\Debug\User Interface.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\obj\Debug\User Interface.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Application.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\User Interface\bin\Debug\Application.pdb

@@ -1,0 +1,15 @@
+[
+  {
+    "UserId": "85acdd76-2780-4fcd-abda-37f842894047",
+    "Nume": "Vlad",
+    "Prenume": "Orbulescu",
+    "Adresa": {
+      "Strada": "Ep. N. Popeea",
+      "Numar": 9,
+      "Tara": "Romania",
+      "Oras": "Caransebes",
+      "Judet": "Caras-Severin"
+    },
+    "Varsta": 22
+  }
+]

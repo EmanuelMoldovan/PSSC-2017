@@ -1,0 +1,8 @@
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\bin\Debug\Core services.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\bin\Debug\Core services.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\bin\Debug\Core.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\bin\Debug\Core.pdb
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\obj\Debug\Core Services.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\obj\Debug\Core Services.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\obj\Debug\Core services.exe
+C:\Users\Vlad Orbulescu\Documents\Facultate\DDD\Management Hotelier\Management Hotelier\Core services\obj\Debug\Core services.pdb
